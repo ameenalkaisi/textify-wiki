@@ -1,30 +1,46 @@
 https://wiki.borderconnect.com/index.php
+
+
+
+
+
 Welcome to the BorderConnect Support Wiki
 a free information resource for BorderConnect customers.
-162 articles and 661 images.
+162
+162
+661
+
+
 
 
 
 
 Customs Glossary
+Customs Glossary
 Compliance Guide
+Compliance Guide
+Shipment Types
 Shipment Types
 
 
 
 
 Software Guide
+Software Guide
 ACE Manifest Guide
+ACE Manifest Guide
+ACI eManifest Guide
 ACI eManifest Guide
 
 
 
 
 RNS PARS Guide
+RNS PARS Guide
+In-Bond Manager Guide
 In-Bond Manager Guide
 Processing Guide
-
-
+Processing Guide
 
 
 
@@ -33,96 +49,190 @@ Processing Guide
 ACE Manifest
 
 
+
+
+
+
+What is ACE Manifest for CBP?
 What is ACE Manifest for CBP?
 
- ACE Manifest Software User Guide
- Creating and Submitting an ACE Manifest
- Correcting Rejected ACE Manifests
- Creating an ACE In-Bond Shipment
- ACE Manifest Processing Guide
- CBP Shipment Types for ACE Manifest
- ACE Manifest Video Tutorials
- CBP Highway Port Listing
-
+ 
+ 
+ACE Manifest Software User Guide
+ 
+Creating and Submitting an ACE Manifest
+ 
+Correcting Rejected ACE Manifests
+ 
+Creating an ACE In-Bond Shipment
+ 
+ACE Manifest Processing Guide
+ 
+CBP Shipment Types for ACE Manifest
+ 
+ACE Manifest Video Tutorials
+ 
+CBP Highway Port Listing
 
 
 ACI eManifest
 
 
+
+
+
+
+What is ACI eManifest for CBSA?
 What is ACI eManifest for CBSA?
 
- ACI eManifest Software User Guide
- Creating and Submitting an ACI eManifest
- Correcting Rejected ACI eManifests
- Creating an In-Bond Shipment in ACI
- ACI eManifest Processing Guide
- CBSA Shipment Types for ACI eManifest
- ACI eManifest Video Tutorials
- CBSA Highway Port Listing
-
+ 
+ 
+ACI eManifest Software User Guide
+ 
+Creating and Submitting an ACI eManifest
+ 
+Correcting Rejected ACI eManifests
+ 
+Creating an In-Bond Shipment in ACI
+ 
+ACI eManifest Processing Guide
+ 
+CBSA Shipment Types for ACI eManifest
+ 
+ACI eManifest Video Tutorials
+ 
+CBSA Highway Port Listing
 
 
 Software Tutorials
 
 
+
+
+
+
+Watch Software Tutorials
 Watch Software Tutorials
 
- BorderConnect Software User Guide
- BorderConnect U.S. In-Bond Manager User Guide
- PARS Software User Guide
- Generating eManifest Lead Sheets
- Managing and Maintaining Trucks
- Managing and Maintaining Trailers
- Managing and Maintaining Drivers
- Managing and Maintaining Passengers
+ 
+ 
+BorderConnect Software User Guide
+ 
+BorderConnect U.S. In-Bond Manager User Guide
+ 
+PARS Software User Guide
+ 
+Generating eManifest Lead Sheets
+ 
+Managing and Maintaining Trucks
+ 
+Managing and Maintaining Trailers
+ 
+Managing and Maintaining Drivers
+ 
+Managing and Maintaining Passengers
+		
+
+Featured Article
+		
+
+  
+  
 
 
-		
-Featured Article	
-		
-  A Split Shipment occurs when a single PAPS entry with a single PAPS number is being taken across the border at different times due to the size of the shipment.
+
+
+
+Split Shipment
 It is not the responsibility of the carrier to determine if a load they are taking is a split shipment. The customs broker or importer should inform the carrier when they are taking a load that is clearing under a split shipment.
+
 The importer or customs broker will also have obtained special permission from the CBP port prior to set up the split shipment PAPS entry.
 
 Enabling Split Shipments In Company Settings
-Before split shipments can be processed in BorderConnect ACE Manifest Software, you must first enable the option to do split shipments in the company preferences page. To do this, when logged in, navigate to Account and select the option Company Settings. Under the ACE Shipment Settings section, select "Yes" under the Allow ACE "Split Shipments". Then click the save button at the top. Read More >>		
+Enabling Split Shipments In Company Settings
+Before split shipments can be processed in BorderConnect 
+ACE Manifest Software
+Company Settings
+ Read More >>
+
+Shipment Release Types
+Shipment Release Types
+Random Article
+Help and Support
+Register for BorderConnect
 
 	
-	
-Shipment Release Types | Random Article | Help and Support | Register for BorderConnect
-	
 
-	
  Featured BorderConnect Tutorial Videos	
 
-	
+
 		 	
 
 
- 
-
-  How to Create an ACE In-Bond in BorderConnect
 
 
- In this tutorial video, I will show you how to set up an ACE eManifest with an ACE In-Bond shipment from start to finish using BorderConnect eManifest software. I will show you how to process a Type 62 Transportation and Exportation in-bond using ACE, how to add in-bond information such as the In-Bond destination, foreign destination, and your bonded carrier ID. Also, how to add the value and HS code to the commodity. Additionally, I will show you how to print a CBP Form 7512 directly from the ACE eManifest and how to electronically arrive your in-bond shipment in ACE or with BorderConnect's U.S. In-Bond Manager. Watch Now
 
-
-	
 
 
  
 
-  How to Import Shipments Into an ACE eManifest
 
 
- In this tutorial video, I will show you how to upload shipments from a CSV file directly into an ACE eManifest using BorderConnect eManifest software. Uploading shipments into BorderConnect is a simple and helpful process for eCommerce users or when trying to import a large number of shipments into an ACE eManifest. I will show you where to find a full support guide for uploading shipments and a CSV starter template. I will also walk you through how to enable this feature, and show you how to upload a CSV file into an ACE eManifest and send it to CBP.  Watch Now
+
+
+ 
+ How to Create an ACE In-Bond in BorderConnect
+
+
+ In this tutorial video, I will show you how to set up an ACE eManifest with an ACE In-Bond shipment from start to finish using BorderConnect eManifest software. I will show you how to process a Type 62 Transportation and Exportation in-bond using ACE, how to add in-bond information such as the In-Bond destination, foreign destination, and your bonded carrier ID. Also, how to add the value and HS code to the commodity. Additionally, I will show you how to print a CBP Form 7512 directly from the ACE eManifest and how to electronically arrive your in-bond shipment in ACE or with BorderConnect's U.S. In-Bond Manager. 
+Watch Now
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+ How to Import Shipments Into an ACE eManifest
+
+
+ In this tutorial video, I will show you how to upload shipments from a CSV file directly into an ACE eManifest using BorderConnect eManifest software. Uploading shipments into BorderConnect is a simple and helpful process for eCommerce users or when trying to import a large number of shipments into an ACE eManifest. I will show you where to find a full support guide for uploading shipments and a CSV starter template. I will also walk you through how to enable this feature, and show you how to upload a CSV file into an ACE eManifest and send it to CBP.  
+Watch Now
+
+
+
+
+
+
+
+
 https://wiki.borderconnect.com/index.php/Glossary
-This article is part of the Customs Compliance Guide.
+This article is part of the 
+
+This article is part of the 
+Customs Compliance Guide
+
 
 
 A glossary of customs terms and acronyms used in cross-border trade and BorderConnect.
+A glossary of customs terms and acronyms used in cross-border trade and BorderConnect.
 A
-  CBP ACE eManifest
+A
+  
+  
+
+
+CBP ACE eManifest
+
+
+A49
 A49
 Shipment release type for goods entering Canada. Used in ACI for shipping production automotive parts to Chrysler, Ford and GM.
 A8A
@@ -138,12 +248,36 @@ Advance Commercial Information is a CBSA (Canada Border Services Agency) program
 API
 An application programming interface (API) is a set of subroutine definitions, protocols, and tools for building software and applications. BorderConnect API provides an easy way to exchange eManifest related data to other software.
 B
+B
+Bonded Carrier IRS Number
 Bonded Carrier IRS Number
 Your IRS number is the number CBP has associated with your status as a bonded carrier. In BorderConnect you can manage which IRS numbers are stored in the system under the Manage Data menu by selecting "ACE Bonded Carrier IRS Numbers".
 BRASS
 Type of pre-clearance used in U.S. bound shipments, can only be used by FAST-approved drivers.
 C
-  CBSA Seal  Courier LVS Cargo  Swearing in new citizens
+C
+  
+  
+
+
+CBSA Seal
+
+
+  
+  
+
+
+Courier LVS Cargo
+
+
+  
+  
+
+
+Swearing in new citizens
+
+
+C-TPAT
 C-TPAT
 Customs-Trade Partnership Against Terrorism is a program in which member carriers and importers agree to implement high security standards in exchange for being recognized by the CBP as low risk, which in the case of carriers can entail fewer CBP inspections. Carriers that are C-TPAT approved are automatically enrolled in the FAST program.
 Cargo Control Number
@@ -195,6 +329,8 @@ A customs broker is an agent that works to secure the customs release of goods t
 CVOR
 The Commercial Vehicle Operators Registration is the registration system for operators of commercial motor vehicles (trucks and buses) in the province of Ontario. It's the part of the Highway Traffic Act under which operators of these vehicles are identified. CVOR also allows the Ministry of Transportation of Ontario (MTO) to suspend or cancel an operator's certificate.
 D
+D
+Delivery Address
 Delivery Address
 In ACI, it is the address to which the goods are physically delivered, if different from the consignee.
 Department of Defense Shipment
@@ -202,6 +338,8 @@ A U.S. Department of Defense (DOD) Shipment is a shipment of goods belonging or 
 DTOPS
 The Decal and Transponder Online Procurement System issues transponders and decals for carriers that cross into the U.S. CBP uses DTOPS information to verify commercial vehicles upon arrival.
 E
+E
+E29B
 E29B
 E29B is a Temporary Importation Bond and is a Canadian Shipment Type for goods to clear through CBSA. It allows for goods to enter Canada temporarily on a Form E29B - Temporary Admission Permit.
 eManifest
@@ -209,7 +347,15 @@ eManifest modernizes and improves North American cross-border commercial process
 Entry Number
 A unique number referencing your commercial shipment from a customs broker for shipments going into the U.S.
 F
-  First Canadian port of entry at pac highway
+F
+  
+  
+
+
+First Canadian port of entry at pac highway
+
+
+FAST
 FAST
 The Free and Secure Trade (FAST) program is a commercial clearance program for known low-risk shipments entering the United States from Canada and Mexico. This program allows expedited processing for commercial carriers who have completed background checks and fulfill certain eligibility requirements.
 FAST ID
@@ -221,15 +367,34 @@ Flying Truck is a Canadian Shipment Type for goods to clear through CBSA and is 
 Free of Duty
 A Free of Duty Shipment, known for its corresponding form, CBP Form 7523, is a U.S. Shipment Type for goods to clear through US Customs and Border Protection. It is a type of Informal Entry that allows for the release at the border of shipments consisting of merchandise that is unconditionally or conditionally duty free and not exceeding 2500 USD in value.
 G
+G
+Goods Astray
 Goods Astray
 Used for the return to the U.S. of refused or undeliverable shipments or goods brought into Canada accidentally.
 H
+H
+Hazmat Code
 Hazmat Code
 A four digit number indicating a dangerous good is any solid, liquid or gas that can harm people, other living organisms, property, or the environment. An equivalent term, used almost exclusively in the United States.
 HS Code
 An HS Code or HTS is the Harmonized Commodity Description and Coding System generally referred to as "Harmonized System" or simply "HS" is a multipurpose international product nomenclature developed by the World Customs Organization (WCO).
 I
-  Instruments of International Trade  International Mail
+I
+  
+  
+
+
+Instruments of International Trade
+
+
+  
+  
+
+
+International Mail
+
+
+IIT (United States)
 IIT (United States)
 In the US ΓÇ£Instruments of International TrafficΓÇ¥, aka IIT or 10.41a, is a U.S. Shipment Type for goods to clear through CBP. It allows for the release at the border of shipments consisting of skids, containers and similar articles.
 IIT (Canada)
@@ -251,13 +416,32 @@ Intangibles is a U.S. Shipment Type for goods through U.S. Customs and Border Pr
 International Mail
 International Mail is a U.S. Shipment Type for goods to clear through US Customs and Border Protection. It allows for the release of mail moving via a contract carrier from a foreign postal service to the US Postal Service.
 N
+N
+NMFTA
 NMFTA
 The National Motor Freight Traffic Association assigns and publishes the Standard Carrier Alpha Code (SCAC), a two to four-letter code used to identify highway carriers.
 O
+O
+Orders In Council
 Orders In Council
 An Order in Council Shipment is a Canadian Shipment Type for goods to clear through CBSA. It allows for the release of goods exempted from regular clearance processes by an Order in Council.
 P
-  PAPS Barcode  Personal Goods loaded on a truck
+P
+  
+  
+
+
+PAPS Barcode
+
+
+  
+  
+
+
+Personal Goods loaded on a truck
+
+
+PAPS
 PAPS
 PAPS is a US shipment type that stands for Pre-Arrival Processing System, and is designed to expedite the release of commercial shipments while still processing each shipment through CBP's automated risking systems.
 PARS
@@ -277,12 +461,22 @@ A Postal Shipment is a Canadian Shipment Type for goods to clear through the Can
 Province of Loading
 Used to indicate the province the goods were shipped from. Should match the province listed under the Shipper's address on the paperwork. In BorderConnect the province of loading will default to the last one used on an ACE shipment, and can be changed using the drop down menu.
 Q
+Q
+QP In-Bond
 QP In-Bond
 A QP In-Bond is when a Customs Broker or other approved ABI filer submits the bond on behalf of the carrier. In this case the bond can be reported on the ACE eManifest simply by creating a PAPS shipment or QP In-Bond.
 Quick Assign
 This feature in BorderConnect allows users to easily select data that already exists in BorderConnect. It works by suggesting results based on partially keyed information. For example typing 'da' under Quick Assign Driver would suggest a driver named 'Daniel' if they already exist in the system.
 R
-  Returned American Products form
+R
+  
+  
+
+
+Returned American Products form
+
+
+Release Office
 Release Office
 This is where the shipment will be released by CBSA. For all shipment types except In-Bond, this is the First Canadian Port of Entry. For In-bond shipments it should be the CBSA Office responsible for the bonded warehouse the shipment will move in bond to.
 Released
@@ -294,7 +488,22 @@ Release on Minimum Documentation is a service option that allows for the release
 RNS
 RNS, which stands for Release Notification System is a means of verifying whether customs clearance has taken place prior to arrival in Canada. RNS affords many advantages by offering carriers a complete overview of the activity on their carrier code as reported directly by CBSA.
 S
-  Shipment Control Number  Sufferance Warehouse
+S
+  
+  
+
+
+Shipment Control Number
+
+
+  
+  
+
+
+Sufferance Warehouse
+
+
+SCAC
 SCAC
 A Standard Carrier Alpha Code is a unique 4 letter code used to identify transportation companies. A SCAC is required for all carriers doing business with a U.S. Goverment agency. As such, all carriers crossing the border into the United States are required to have a SCAC in order to identify themselves to CBP.
 Seal Number
@@ -314,7 +523,15 @@ A Sublocation is a code for a CBSA approved warehouse facility where a specific 
 Sufferance Warehouse
 Sufferance warehouses are licensed by the CBSA for the short-termstorage and examination, when required, of imported goods not yet released by the CBSA. Only imported goods for which financial security have been posted are eligible to be stored in these facilities.
 T
-  WHTI Approved travel document
+T
+  
+  
+
+
+WHTI Approved travel document
+
+
+Terminal
 Terminal
 Terminals are company office locations and used in BorderConnect to help sort user accounts, driver profiles and truck profiles for companies that are accounting for multiple locations. User accounts that are assigned to a terminal will view times in BorderConnect according to the time zone set for that terminal.
 Transaction Number
@@ -324,523 +541,1122 @@ Travel Documents are documents required by the driver when crossing into the U.S
 Trip Number
 Unique number used by customs to identify an eManifest. The trip number always begins with a SCAC (for ACE) or carrier code (for ACI), which can be selected using the drop down menu. This must be followed by 4 to 21 characters (numbers or letters) which can be entered in the text field. The trip number must be unique.
 U
+U
+UN Code
 UN Code
 A four digit number indicating a dangerous good is any solid, liquid or gas that can harm people, other living organisms, property, or the environment. An equivalent term, used almost exclusively in the United States.
 USDOT
 The U.S. Department of Transportation requires companies that operate commercial vehicles to have a USDOT Number. The USDOT Number serves as a unique identifier when collecting and monitoring a company's safety information acquired during audits, compliance reviews, crash investigations, and inspections.
 V
+V
+VIN
 VIN
 The vehicle identification number of the vehicle. In BorderConnect it should be entered in full with an ACE eManifest. Partial VINs are not considered acceptable.
 W
+W
+WHTI
 WHTI
 The Western Hemisphere Travel Initiative (WHTI) is a U.S. law that requires all travelers, including U.S. and Canadian citizens, to present a valid passport or other approved secure document when entering the United States from within the western hemisphere.
+
 https://wiki.borderconnect.com/index.php/Shipment_Types_For_ACE_and_ACI_eManifest
-This article is part of the BorderConnect Shipment Type Guide.
-A Shipment Type, aka clearance type or release option, is the method by which goods being transported by a highway carrier obtain Customs' permission to enter the country. In general, it is the responsibility of the importer or their agent (broker) to select the shipment type. With very few exceptions, the carrier should not make a decision as to which shipment type should be used, but instead rely on their client to supply them with those instructions. This guide offers instructions on shipment types used within BorderConnect eManifest Software.
+This article is part of the BorderConnect 
+
+This article is part of the BorderConnect 
+Shipment Type Guide
+A 
+Shipment Type
+clearance type or release option
+BorderConnect eManifest Software
 The most common shipment type for commercial goods entering Canada is PARS, in which goods obtain CBSA clearance ahead of arrival at the border.  Its counterpart for goods entering the U.S. is PAPS.
 
 CBSA Shipment Types for ACI eManifest
+CBSA Shipment Types for ACI eManifest
 The following shipment types are used for goods entering Canada via highway carrier:
-
-PARS - default shipment type for commercial goods entering Canada, allows pre-clearance of goods.
-In-Bond - allows for inland movement of goods that are not considered "released" by CBSA.
-CSA - special shipment type for parties enrolled in the CSA trusted trader program when all required conditions are met.
-A49 Automotive Release - special shipment type used for shipping production automotive parts to Chrysler, Ford and GM.
-ATA Carnet - typically used for commercial samples, professional equipment and goods for use at exhibitions and fairs.
-E29B - type of temporary import
-Goods Astray - allows for the release of goods which were previously exported from the Canada.
-Paper RMD - allows importers to obtain release of goods prior to payment of duties and taxes by presenting interim documentation, otherwise known as an RMD package.
-Paper B3 - used to account for imported goods, regardless of value, destined for commercial use in Canada.
-Personal Goods - used when non-commercial goods are transported by highway carriers.
-Orders In Council - used when goods are covered under an Order in Council granting exemption from normal release methods.
-Master Provisional - used when the importer/owner or broker cannot establish a final value for duty of goods at the time of importation.
-Automotive Line Release - special shipment type used for shipping new Ford, GM, Chrysler production vehicles to dealerships in Canada.
-Value Included - used in the event additional goods are shipped to address a shortage in a shipped order.
-Military Goods - used when goods belonging or destined to the Canadian Department of National Defence being transported by an authorized commercial carrier.
+The following shipment types are used for goods entering Canada via highway carrier:
+PARS
+PARS
+PARS
+In-Bond
+In-Bond
+CSA
+CSA
+A49 Automotive Release
+A49 Automotive Release
+ATA Carnet
+ATA Carnet
+E29B
+E29B
+Goods Astray
+Goods Astray
+Paper RMD
+Paper RMD
+Paper B3
+Paper B3
+Personal Goods
+Personal Goods
+Orders In Council
+Orders In Council
+Master Provisional
+Master Provisional
+Automotive Line Release
+Automotive Line Release
+Value Included
+Value Included
+Military Goods
+Military Goods
+CBSA Cargo Exemptions for ACI eManifest
 CBSA Cargo Exemptions for ACI eManifest
 The following shipments are considered cargo exemptions for goods entering Canada via highway carrier:
-
-Instruments of International Trade (IIT) - used for empty racks and containers that cross the border in international transportation.
-In-Transit - used when goods are moving from point-to-point travelling through the United States.
-Flying Truck - used when freight that was originally supposed to arrive in Canada by air instead arrives by truck.
-Courier Low Value Shipment - special shipment type only available to couriers transporting low value shipments.
-Postal Shipment - used to report shipments of mail moving from a foreign postal service to Canada Post.
-Emergency Repairs - used by Canadian carriers to report emergency repairs to commercial vehicles that occur outside Canada.
-Empty ACI eManifest - Although not required at all ports, an empty conveyance can still be provided and is recommended.
+The following shipments are considered cargo exemptions for goods entering Canada via highway carrier:
+Instruments of International Trade (IIT)
+Instruments of International Trade (IIT)
+Instruments of International Trade (IIT)
+In-Transit
+In-Transit
+Flying Truck
+Flying Truck
+Courier Low Value Shipment
+Courier Low Value Shipment
+Postal Shipment
+Postal Shipment
+Emergency Repairs
+Emergency Repairs
+Empty ACI eManifest
+Empty ACI eManifest
+CBP Shipment Types for ACE Manifest
 CBP Shipment Types for ACE Manifest
 The following shipment types are used for goods entering the United States via highway carrier:
+The following shipment types are used for goods entering the United States via highway carrier:
+PAPS
+PAPS
+PAPS
+QP In-Bond
+QP In-Bond
+ACE In-Bond
+ACE In-Bond
+Section 321
+Section 321
+Instruments of International Traffic (IIT)
+Instruments of International Traffic (IIT)
+ATA Carnet
+ATA Carnet
+BRASS
+BRASS
+Personal Shipment
+Personal Shipment
+Free of Duty
+Free of Duty
+Returned American Products
+Returned American Products
+Goods Astray
+Goods Astray
+U.S. Department of Defense Shipment
+U.S. Department of Defense Shipment
+International Mail
+International Mail
+Intangibles
+Intangibles
+CBP Form 3461 (Entry/Immediate Delivery, aka Type 11) - regular PAPS entry submitted by a customs broker in paper format rather than electronically. manifested by the carrier as a 
+PAPS
 
-PAPS - default shipment type for commercial goods entering the U.S., allows pre-clearance of goods
-QP In-Bond - allows for custom broker clearance for inland movement of goods that are not considered "released" by CBP
-ACE In-Bond - allows for inland movement of goods that are not considered "released" by CBP in ACE Manifest.
-Section 321 - allows for import of goods valued under 800 USD
-Instruments of International Traffic (IIT) - used for empty racks and containers that cross the border in international transportation
-ATA Carnet - allows for the temporary importation of goods into a country.
-BRASS - type of pre-clearance, can only be used by FAST-approved drivers
-Personal Shipment - used when non-commercial goods are transported by highway carriers
-Free of Duty - used for duty-free merchandise not exceeding 2500 USD in value
-Returned American Products - allows for the release at the border of shipments consisting of products of the United States being returned.
-Goods Astray - used for the return to the U.S. of refused or undeliverable shipments or goods brought into Canada accidentally
-U.S. Department of Defense Shipment - cargo belonging to department of defense being transported by commercial carrier
-International Mail - used to report shipments of mail moving from a foreign postal service to the U.S. Postal Service
-Intangibles - used for the release of certain specific commodities including business records and articles returned from space
-CBP Form 3461 (Entry/Immediate Delivery, aka Type 11) - regular PAPS entry submitted by a customs broker in paper format rather than electronically. manifested by the carrier as a PAPS
 https://wiki.borderconnect.com/index.php/Service_Provider_Guide_(ACE_and_ACI_eManifest)
-This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the ACE Manifest Software Guide or for help with ACI visit the ACI eManifest Software Guide.
-Using BorderConnect as a service provider.This guide offers instructions on using BorderConnect as an eManifest Service Provider. Using BorderConnect as an eManifest service provider helps customs brokers and border consulting firms manage ACE and ACI eManifests for highway carriers. It is also possible to offer eManifest software with your branding to self-filing carriers, using BorderConnect's white-label eManifest portal.
+This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the 
+
+This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the 
+ACE Manifest Software Guide
+ACI eManifest Software Guide
+Using BorderConnect as a service provider.
+Using BorderConnect as a service provider.
+
+Using BorderConnect as a service provider.
+Using BorderConnect as a service provider.
+eManifest Service Provider
+eManifest service provider
+Contents
 Contents
 
-1 Definition of eManifest Service Provider
-2 Registering With BorderConnect as a Service Provider
-3 eManifest Service Provider White Label Portal
 
-3.1 How To Get Started With a White-Label Portal
-3.2 Advantages of a White-Label Portal
-
-
-4 Using BorderConnect API as a Service Provider
-5 Adding New Companies
-
-5.1 Registering a New Company
-5.2 Have Company Register Themselves
-
-
-6 Managing Company Profiles
-
-6.1 Changing Companies
-6.2 ACE And ACI Fax Service Listing Page
+1
+1
+1
+Definition of eManifest Service Provider
+2
+2
+2
+Registering With BorderConnect as a Service Provider
+3
+3
+3
+eManifest Service Provider White Label Portal
 
 
-7 Managing Company Data
-8 ACE Manifest Software Guide
-9 ACI eManifest Software Guide
+3.1
+3.1
+3.1
+How To Get Started With a White-Label Portal
+3.2
+3.2
+3.2
+Advantages of a White-Label Portal
+4
+4
+4
+Using BorderConnect API as a Service Provider
+5
+5
+5
+Adding New Companies
 
 
+5.1
+5.1
+5.1
+Registering a New Company
+5.2
+5.2
+5.2
+Have Company Register Themselves
+6
+6
+6
+Managing Company Profiles
 
+
+6.1
+6.1
+6.1
+Changing Companies
+6.2
+6.2
+6.2
+ACE And ACI Fax Service Listing Page
+7
+7
+7
+Managing Company Data
+8
+8
+8
+ACE Manifest Software Guide
+9
+9
+9
+ACI eManifest Software Guide
+Definition of eManifest Service Provider
 Definition of eManifest Service Provider
 An eManifest Service Provider is any company that files eManifest data with customs on behalf of multiple highway carriers.
 
 Registering With BorderConnect as a Service Provider
-If your company doesn't already have an account with BorderConnect, go to www.borderconnect.com and click Sign Up Now. When choosing your Account Type during the registration use the drop-down menu to select the option eManifest Service Provider then, finish entering your company and user details and finish the registration.
+Registering With BorderConnect as a Service Provider
+If your company doesn't already have an account with BorderConnect, go to 
+www.borderconnect.com
+eManifest Service Provider
+Registering as a Service Provider in BorderConnect
 Registering as a Service Provider in BorderConnect
 
 After you have verified your registration and account via email, a BorderConnect representative will follow up within 1-2 business days and discuss your options, and if you require a white-label eManifest portal.
 
+
+eManifest Service Provider White Label Portal
 eManifest Service Provider White Label Portal
 As a BorderConnect eManifest Service Provider, you have the option to have your own branded eManifest portal for your customers to use.
 
 
+
+
+
+
+One of the many custom branded service providers that use BorderConnect as their eManifest portal.
 One of the many custom branded service providers that use BorderConnect as their eManifest portal.
 
 
+
+How To Get Started With a White-Label Portal
 How To Get Started With a White-Label Portal
 After BorderConnect sets your company up as a service provider we can get started with your white-label portal set up.
 
 What we need to get started
+What we need to get started
+What we need to get started
  Your branding style guide. (this includes brand colours, logo and the URL to your companies website.)
 Advantages of a White-Label Portal
+Advantages of a White-Label Portal
+No Development Investment
+No Development Investment
 No Development Investment
  BorderConnect provides its own platform as an eManifest portal, so no software development is needed by third-party companies to develop their own eManifest portal.
 Tailored To The Companies Brand
+Tailored To The Companies Brand
  BorderConnect uses your branding and styling for an eManifest portal login page and eManifest portal as if the portal belongs to the service provider.
 Using BorderConnect API as a Service Provider
+Using BorderConnect API as a Service Provider
 BorderConnect's API provides a simple way to exchange eManifest related data. This helps service providers and business software to send and receive eManifest data from Canada Border Services Agency and U.S. Customs and Border Protection.
-All eManifest data is encoded as JSON (Java Script Object Notation), which a simple text-based format. The connection to BorderConnect API uses WebSockets, known for it's easy-of-use, flexibility and performance.
-For more information on how BorderConnect API works, or to read the BorderConnect API guide, click here.
 
+All eManifest data is encoded as JSON (Java Script Object Notation), which a simple text-based format. The connection to BorderConnect API uses WebSockets, known for it's easy-of-use, flexibility and performance.
+
+For more information on how BorderConnect API works, or to read the BorderConnect API guide, 
+click here
+Adding New Companies
 Adding New Companies
 As a BorderConnect eManifest service provider, you can easily add new companies that want to register with you. A service provider can add companies in two ways.
 
 Registering a New Company
+Registering a New Company
 To register a new company, navigate to the top right, under the Account menu option and then click 'Register New Company'. From the Register New Company page, enter the company details and user account credentials, then finish the registration.
 
 
+
+
+
+Have Company Register Themselves
 Have Company Register Themselves
 The second option to add companies is to have them register themselves using the external registration form provided on the service providers site, using the white-label portal. The company registering simply needs to enter their company and user details. Once the company is registered, the service provider will follow up with them to activate their account.
 
 
-Service Provider sign up menu option.
 
+
+
+
+Service Provider sign up menu option.
+Service Provider sign up menu option.
 Managing Company Profiles
+Managing Company Profiles
+Changing Companies
 Changing Companies
 Managing company profiles and switching between different companies is very simple and user-friendly. All service providers can use the Change Company box on the top right of the screen and switch companies by typing in the name of the company or by typing in the Carrier Code or SCAC (Standard Carrier Alpha Code). An added feature is the ability to change company by truck unit number, driver name and more.
 
 
+
+
+
+
+Administration buttons and company switcher.
 Administration buttons and company switcher.
 
 
+
+ACE And ACI Fax Service Listing Page
 ACE And ACI Fax Service Listing Page
 As a service provider you have the ability to manage and view ACE or ACI eManifests for multiple companies in one location. Using the service provider administration section on the top right of the page allows you to switch between ACE Fax Service and ACI Fax Service easily using the buttons provided.
+
 From the Fax Service listing page you can view and manage all of the eManifests for multiple companies that were created by you as a service provider.
 
 
-ACE Fax Service Listing Page
 
+
+
+
+ACE Fax Service Listing Page
+ACE Fax Service Listing Page
 Managing Company Data
-  Trailer Details Page
+Managing Company Data
+  
+  
+
+
+Trailer Details Page
+
+
 The first step is create profiles for any drivers, trucks and trailers that may be crossing the border. The information in these profiles will be used to complete mandatory fields on your manifests. It is recommended that you enter the profile information ahead of time to facilitate creating eManifests. Please refer to the individual sections for instructions on entering and maintaining:
 
 Driver profiles
+Driver profiles
+Driver profiles
+Passenger profiles
 Passenger profiles
 Truck profiles
+Truck profiles
+Trailer profiles
 Trailer profiles
 ACE Manifest Software Guide
-  ACE Manifest Search Page
-The below articles focus on the different pages and features users will come across using BorderConnect ACE Manifest software. For core ACE Manifest articles, visit ACE Manifest Software User Guide
+ACE Manifest Software Guide
+  
+  
 
- Start New ACE Manifest Page
- Start New ACE Shipment Page
- ACE Manifest Details Page
- Edit ACE Manifest Page
- ACE Shipment Details Page
- Edit ACE Shipment Page
- ACE Manifest Search Page
- ACE Shipment Search Page
- ACE Commodity Details Page
- Add/Edit Commodity for ACE Shipment Page
- ACE In-Bond Sequences
+
+ACE Manifest Search Page
+
+
+The below articles focus on the different pages and features users will come across using BorderConnect ACE Manifest software. For core ACE Manifest articles, visit 
+ACE Manifest Software User Guide
+ 
+ 
+Start New ACE Manifest Page
+ 
+Start New ACE Shipment Page
+ 
+ACE Manifest Details Page
+ 
+Edit ACE Manifest Page
+ 
+ACE Shipment Details Page
+ 
+Edit ACE Shipment Page
+ 
+ACE Manifest Search Page
+ 
+ACE Shipment Search Page
+ 
+ACE Commodity Details Page
+ 
+Add/Edit Commodity for ACE Shipment Page
+ 
+ACE In-Bond Sequences
 ACI eManifest Software Guide
-  ACI Shipment details page
-  ACI CSA Importer Search Page
-The below articles focus on the different pages and features users will come across using BorderConnect ACI eManifest software. For core ACI eManifest articles visit the ACI eManifest Software User Guide
+ACI eManifest Software Guide
+  
+  
 
- Start New ACI eManifest Page
- Start New ACI Shipment Page
- ACI eManifest Details Page
- ACI Shipment Details Page
- Edit ACI eManifest Page
- Edit ACI Shipment Page
- ACI Commodity Description Search Page
- ACI eManifest Search Page
- ACI Shipment Search Page
- Add/Edit Commodity for ACI Shipment Page
- ACI Commodity Description Search Page
- ACI Shipper/Consignee Search Page
- ACI CSA Importer Search Page
- Generating ACI Lead Sheets
- ACI Hazardous Goods Search Page
+
+ACI Shipment details page
+
+
+  
+  
+
+
+ACI CSA Importer Search Page
+
+
+The below articles focus on the different pages and features users will come across using BorderConnect ACI eManifest software. For core ACI eManifest articles visit the 
+ACI eManifest Software User Guide
+ 
+ 
+Start New ACI eManifest Page
+ 
+Start New ACI Shipment Page
+ 
+ACI eManifest Details Page
+ 
+ACI Shipment Details Page
+ 
+Edit ACI eManifest Page
+ 
+Edit ACI Shipment Page
+ 
+ACI Commodity Description Search Page
+ 
+ACI eManifest Search Page
+ 
+ACI Shipment Search Page
+ 
+Add/Edit Commodity for ACI Shipment Page
+ 
+ACI Commodity Description Search Page
+ 
+ACI Shipper/Consignee Search Page
+ 
+ACI CSA Importer Search Page
+ 
+Generating ACI Lead Sheets
+ 
+ACI Hazardous Goods Search Page
+
+
+
+
 https://wiki.borderconnect.com/index.php/EManifest_Processing_Guide_(ACE_and_ACI_eManifest)
+How to fill out BorderConnect fax forms.How to fill out BorderConnect fax forms.
+
+How to fill out BorderConnect fax forms.
 How to fill out BorderConnect fax forms.
 Contents
-
-1 Introduction
-2 eManifest Processing Details
-3 Getting Started
-4 Information required for an ACE Manifest
-
-4.1 Information required for ACE Manifest shipment
+Contents
 
 
-5 Information required for an ACI eManifest
-
-5.1 Information required for ACI Manifest shipment
-
-
-6 Travel Document Requirements
-
-6.1 The following are accepted travel documents for ACE
-6.2 The following are accepted travel documents for ACI
-
-
-7 Tips and Common Mistakes To Avoid
-
-
-
+1
+1
+1
 Introduction
-BorderConnectΓÇÖs eManifest Processing service provides the ability for customers to fax or email their eManifest details to get processed and sent to customs for them. Many carriers use this as their primary method of filing eManifests. Others use it as an after-hours service. The intent of this guide is to provide you the basics about eManifests, as well as provide some of the best practices when using BorderConnectΓÇÖs eManifest Processing service.
-
+2
+2
+2
 eManifest Processing Details
-  BorderConnect eManifest Specialist - Jody
+3
+3
+3
+Getting Started
+4
+4
+4
+Information required for an ACE Manifest
+
+
+4.1
+4.1
+4.1
+Information required for ACE Manifest shipment
+5
+5
+5
+Information required for an ACI eManifest
+
+
+5.1
+5.1
+5.1
+Information required for ACI Manifest shipment
+6
+6
+6
+Travel Document Requirements
+
+
+6.1
+6.1
+6.1
+The following are accepted travel documents for ACE
+6.2
+6.2
+6.2
+The following are accepted travel documents for ACI
+7
+7
+7
+Tips and Common Mistakes To Avoid
+Introduction
+Introduction
+BorderConnectΓÇÖs 
+BorderConnectΓÇÖs 
+eManifest Processing
+eManifest Processing Details
+eManifest Processing Details
+  
+  
+
+
+BorderConnect eManifest Specialist - Jody
+
+
 BorderConnectΓÇÖs friendly eManifest Specialists are fully trained on the procedures involved with ACE and ACI eManfiest.
 
  BorderConnectΓÇÖs 24/7 eManifest Processing Centre processes approx 7,500 ACE and ACI eManifests a month.
+ BorderConnectΓÇÖs 24/7 eManifest Processing Centre processes approx 7,500 ACE and ACI eManifests a month.
  BorderConnect support agents also support thousands of companies who rely on BorderConnectΓÇÖs eManifest portal and API customers 24 hours a day.
- BorderConnectΓÇÖs average eManifest processing time is 6.1 minutes. This may fluctuate based on when we receive the paperwork and how much data is needed to process the manifest.
+ BorderConnectΓÇÖs average eManifest processing time is 
+6.1 minutes
 6.1min processing time based on 2015 and 2016 averages for over 180,000 manifests.
-
+6.1min processing time based on 2015 and 2016 averages for over 180,000 manifests.
 Getting Started
-To register for BorderConnect eManifest Processing go to www.borderconnect.com and click Sign Up Now.
-
+Getting Started
+To register for BorderConnect eManifest Processing go to 
+www.borderconnect.com
+Sign Up Now
+1. Enter your company details and verify your email. Once thatΓÇÖs been done a sales representative will follow-up with you in 1 business day or less. Or call BorderConnect.
 1. Enter your company details and verify your email. Once thatΓÇÖs been done a sales representative will follow-up with you in 1 business day or less. Or call BorderConnect.
 2. If you have a valid SCAC code you can start using our service for ACE eManifest immediately.
 3. If you have a valid Canadian Carrier Code we will send you the documents needed to complete the process with CBSA (Canada Border Services Agency). Once youΓÇÖve been approved by CBSA we will activate your account and inform you. This process typically takes 2-5 business days until you can start using our service for ACI eManifest.
 Information required for an ACE Manifest
-  ACE eManifest Form
-  Required data elements for ACE Manifest
-Unique Trip Number required
-Port of Arrival required
-Estimated Time of Arrival required
-Truck required
+Information required for an ACE Manifest
+  
+  
 
- Truck Unit Number required
- Truck Type required
- VIN required
- License Plate required
-Trailer required if you have trailer
 
- Trailer Unit Number required
- Trailer License Plate required
- Trailer Type required
-Driver & Team Driver required
+ACE eManifest Form
 
- Driver Full Name required
- FAST ID if driver is FAST approved
- Date of Birth required if not FAST approved
- Gender required if not FAST approved
- Citizenship required if not FAST approved
- Passenger required if you have a passenger
- Passenger Full Name required
- Date of Birth required
- Citizenship required
- Gender required
+
+  
+  
+
+
+Required data elements for ACE Manifest
+
+
+Unique Trip Number
+Unique Trip Number
+required
+Port of Arrival
+Port of Arrival
+required
+Estimated Time of Arrival
+Estimated Time of Arrival
+required
+Truck
+Truck
+required
+ Truck Unit Number 
+ Truck Unit Number 
+required
+ Truck Type 
+required
+ VIN 
+required
+ License Plate 
+required
+Trailer
+Trailer
+required if you have trailer
+ Trailer Unit Number 
+ Trailer Unit Number 
+required
+ Trailer License Plate 
+required
+ Trailer Type 
+required
+Driver & Team Driver
+Driver & Team Driver
+required
+ Driver Full Name 
+ Driver Full Name 
+required
+ FAST ID 
+if driver is FAST approved
+ Date of Birth 
+required if not FAST approved
+ Gender 
+required if not FAST approved
+ Citizenship 
+required if not FAST approved
+ Passenger 
+required if you have a passenger
+ Passenger Full Name 
+required
+ Date of Birth 
+required
+ Citizenship 
+required
+ Gender 
+required
 Driver/Team Driver/Passenger Travel Documents Accepted:
-
+Driver/Team Driver/Passenger Travel Documents Accepted:
+ Commercial Drivers License Passport/US Passport Card
  Commercial Drivers License Passport/US Passport Card
  Enhanced Drivers License NEXUS Card
  FAST Card Valid US VISA Card
 For more information on approved WHTI Documents visit:
+For more information on approved WHTI Documents visit:
 http://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative
 
 
+
+Information required for ACE Manifest shipment
 Information required for ACE Manifest shipment
 Required Shipment Data Elements:
-Unique Shipment Control Number required
-Shipment Type required
-Shipper (Shipped From) required
-
- Shipper Name required
- Full Address required
-Consignee (Destination) required
-
- Consignee Name required
- Full Address required
-Commodity Information required
-
- Description of Goods required
- Quantity required
- Gross Weight required
-Hazardous Material Details required if hazardous
-
- Hazmat UN Code required if hazardous
- Emergency Contact Info required if hazardous
+Required Shipment Data Elements:
+Unique Shipment Control Number
+Unique Shipment Control Number
+required
+Shipment Type
+Shipment Type
+required
+Shipper (Shipped From)
+Shipper (Shipped From)
+required
+ Shipper Name 
+ Shipper Name 
+required
+ Full Address 
+required
+Consignee (Destination) 
+Consignee (Destination) 
+required
+ Consignee Name 
+ Consignee Name 
+required
+ Full Address 
+required
+Commodity Information
+Commodity Information
+required
+ Description of Goods 
+ Description of Goods 
+required
+ Quantity 
+required
+ Gross Weight 
+required
+Hazardous Material Details
+Hazardous Material Details
+required if hazardous
+ Hazmat UN Code 
+ Hazmat UN Code 
+required if hazardous
+ Emergency Contact Info 
+required if hazardous
 Information required for an ACI eManifest
-  ACI eManifest Form
-  Required data elements for ACI eManifest
-Unique Conveyance Reference Number required and must be different than PARS number
-Port of Entry required
-Estimated Date and Time of Arrival required
-Sub Location/Warehouse required if going In-Bond
-Truck required
+Information required for an ACI eManifest
+  
+  
 
- Truck Unit Number required
- Truck Type not required
- VIN not required
- License Plate required
-Trailer required if you have trailer
 
- Trailer Unit Number required
- Trailer License Plate required
- Trailer Type required
-Driver & Team Driver not required
-Passenger not required
+ACI eManifest Form
+
+
+  
+  
+
+
+Required data elements for ACI eManifest
+
+
+Unique Conveyance Reference Number
+Unique Conveyance Reference Number
+required and must be different than PARS number
+Port of Entry
+Port of Entry
+required
+Estimated Date and Time of Arrival
+Estimated Date and Time of Arrival
+required
+Sub Location/Warehouse
+Sub Location/Warehouse
+required if going In-Bond
+Truck
+Truck
+required
+ Truck Unit Number 
+ Truck Unit Number 
+required
+ Truck Type 
+not required
+ VIN 
+not required
+ License Plate 
+required
+Trailer
+Trailer
+required if you have trailer
+ Trailer Unit Number 
+ Trailer Unit Number 
+required
+ Trailer License Plate 
+required
+ Trailer Type 
+required
+Driver & Team Driver
+Driver & Team Driver
+not required
+Passenger
+not required
+For more information on whatΓÇÖs required for ACI eManifests visit:
 For more information on whatΓÇÖs required for ACI eManifests visit:
 https://www.cbsa-asfc.gc.ca/prog/aci-manif-ipec/req-exig-eng.html#tab3
 
 
+
 Information required for ACI Manifest shipment
-Unique Cargo Control Number required and must be different than Conveyance Reference Number (Trip Number)
-Shipment Type required
-Sub Location/Warehouse required if going In-Bond
-CSA Importer Business Number required if CSA
-Shipper (Shipped From) required
-
- Shipper Name required
- Full Address required
-Consignee (Destination) required
-
- Consignee Name required
- Full Address required
-Commodity Information required
-
- Description of Goods required
- Quantity required
- Gross Weight required
-Hazardous Material Details required if hazardous
-
- Hazmat UN Code required if hazardous
- Emergency Contact Info required if hazardous
+Information required for ACI Manifest shipment
+Unique Cargo Control Number
+Unique Cargo Control Number
+required and must be different than Conveyance Reference Number (Trip Number)
+Shipment Type
+Shipment Type
+required
+Sub Location/Warehouse
+Sub Location/Warehouse
+required if going In-Bond
+CSA Importer Business Number
+CSA Importer Business Number
+required if CSA
+Shipper (Shipped From)
+Shipper (Shipped From)
+required
+ Shipper Name 
+ Shipper Name 
+required
+ Full Address 
+required
+Consignee (Destination)
+Consignee (Destination)
+required
+ Consignee Name 
+ Consignee Name 
+required
+ Full Address 
+required
+Commodity Information
+Commodity Information
+required
+ Description of Goods 
+ Description of Goods 
+required
+ Quantity 
+required
+ Gross Weight 
+required
+Hazardous Material Details
+Hazardous Material Details
+required if hazardous
+ Hazmat UN Code 
+ Hazmat UN Code 
+required if hazardous
+ Emergency Contact Info 
+required if hazardous
 Travel Document Requirements
-  US Passport Card (an approved WHTI document)
+Travel Document Requirements
+  
+  
+
+
+US Passport Card (an approved WHTI document)
+
+
+The following are accepted travel documents for ACE
 The following are accepted travel documents for ACE
 Any approved WHTI (Western Hemisphere Travel Initiative) Document
 
  Valid Passport or Passport Card
+ Valid Passport or Passport Card
  Valid Enhanced Drivers License
  Valid FAST or NEXUS Card
 The following are accepted travel documents for ACI
+The following are accepted travel documents for ACI
 Examples of some approved travel documents for ACI:
-
- Proof of Citizenship (ie citizenship card, passport/passport card)
+Examples of some approved travel documents for ACI:
+ Proof of Citizenship 
+ Proof of Citizenship 
+(ie citizenship card, passport/passport card)
  Valid Drivers License
- Permanent Resident Card (ie US VISA card)
+ Permanent Resident Card 
+(ie US VISA card)
  Birth Certificate
- INAC (Native American ID)
- Any approved WHTI Document (ie enhanced drivers license, FAST Card, NEXUS Card)
+ INAC 
+(Native American ID)
+ Any approved WHTI Document 
+(ie enhanced drivers license, FAST Card, NEXUS Card)
+Tips and Common Mistakes To Avoid
 Tips and Common Mistakes To Avoid
 Include driver or dispatch phone number on the fax form.
-
+Include driver or dispatch phone number on the fax form.
+ If BorderConnect is missing information, or info needs to be clarified we must be able to reach someone in regards to the information on the fax form.
  If BorderConnect is missing information, or info needs to be clarified we must be able to reach someone in regards to the information on the fax form.
 In ACI you must wait 1 hour after your eManfiest has been accepted by CBSA.
-
+In ACI you must wait 1 hour after your eManfiest has been accepted by CBSA.
+ CBSA has initiated a zero-tolerance policy. To find out when you will be cleared to cross you can contact BorderConnect 24/7.
  CBSA has initiated a zero-tolerance policy. To find out when you will be cleared to cross you can contact BorderConnect 24/7.
 Make sure to send paperwork to the customs broker first, and make sure they received and processed your entry.
-
+Make sure to send paperwork to the customs broker first, and make sure they received and processed your entry.
+ Brokers can take hours to process entries. Verify the broker used the correct shipment number and that the entry is certified by customs before you cross.
  Brokers can take hours to process entries. Verify the broker used the correct shipment number and that the entry is certified by customs before you cross.
 In ACI you must provide a barcoded lead sheet or cargo control number to the officer at the border.
-
+In ACI you must provide a barcoded lead sheet or cargo control number to the officer at the border.
+ If you do not provide a barcoded CRN or CCN you may be at risk for penalties. A lead sheet can be requested simply by providing a fax back number or email on your fax form.
  If you do not provide a barcoded CRN or CCN you may be at risk for penalties. A lead sheet can be requested simply by providing a fax back number or email on your fax form.
 Print legibly, or use the digitally fillable .pdf fax form.
-
+Print legibly, or use the digitally fillable .pdf fax form.
+ If incorrect data is entered, or data is missing, delays and penalties may be assessed by CBP or CBSA.
  If incorrect data is entered, or data is missing, delays and penalties may be assessed by CBP or CBSA.
 In ACI, the Trip Number must not be the same as the PARS number.
-
+In ACI, the Trip Number must not be the same as the PARS number.
+ CBSA requires the CRN (Trip Number) to be unique, and it cannot match any existing Cargo Control Number (ie PARS number). 
  CBSA requires the CRN (Trip Number) to be unique, and it cannot match any existing Cargo Control Number (ie PARS number). 
 Always call to confirm the paperwork was received by BorderConnect.
-
+Always call to confirm the paperwork was received by BorderConnect.
+ Please provide adequate time for BorderConnect to receive your fax or email. BorderConnect uses multiple fax servers and it could take up to 10 minutes for BorderConnect to receive the paperwork.
  Please provide adequate time for BorderConnect to receive your fax or email. BorderConnect uses multiple fax servers and it could take up to 10 minutes for BorderConnect to receive the paperwork.
 If you are unsure of something or have questions. Call BorderConnect.
-
+If you are unsure of something or have questions. Call BorderConnect.
  Many mistakes can be avoided or resolved with a quick phone call to one of our support agents. BorderConnect can be reached 24/7.
+ Many mistakes can be avoided or resolved with a quick phone call to one of our support agents. BorderConnect can be reached 24/7.
+
+
+
+
 https://wiki.borderconnect.com/index.php/Customs_Compliance_Guide_(CBP_and_CBSA)
-This article is part of the Customs Compliance Guide.
-  Ambassador Bridge
+This article is part of the 
+
+This article is part of the 
+Customs Compliance Guide
+  
+  
+
+
+Ambassador Bridge
+
+
+Contents
 Contents
 
-1 Introduction
-2 Crossing Into the U.S. (CBP)
 
-2.1 U.S. Customs Compliance Documents (CBP)
-
-
-3 Crossing Into Canada (CBSA)
-
-3.1 Canadian Customs Compliance Documents (CBSA)
-
-
-4 Trusted Trader Programs
-
-
-
+1
+1
+1
 Introduction
-The BorderConnect Customs Compliance Guide is intended to provide basic knowledge to highway carriers who cross the border into Canada and the United States commercially and are looking for information on specific ports and specific compliance programs. For information on ACE Manifest, visit the BorderConnect ACE Manifest Software User Guide, or for information on ACI eManifest, visit the ACI eManifest Software User Guide.
-For more advanced support on the process involved with getting started crossing the border, or to get set up for any specific customs compliance programs, contact BorderConnect Consulting Services, or contact BorderConnect toll-free at 1-800-596-5176.
+2
+2
+2
+Crossing Into the U.S. (CBP)
 
+
+2.1
+2.1
+2.1
+U.S. Customs Compliance Documents (CBP)
+3
+3
+3
+Crossing Into Canada (CBSA)
+
+
+3.1
+3.1
+3.1
+Canadian Customs Compliance Documents (CBSA)
+4
+4
+4
+Trusted Trader Programs
+Introduction
+Introduction
+The BorderConnect 
+Customs Compliance Guide
+ACE Manifest Software User Guide
+ACI eManifest Software User Guide
+For more advanced support on the process involved with getting started crossing the border, or to get set up for any specific customs compliance programs, contact 
+BorderConnect Consulting Services
+Crossing Into the U.S. (CBP)
 Crossing Into the U.S. (CBP)
 In order to cross commercially into the United States, the carrier will need to register with the Department of Transportation where the carrier must get a US DOT or MC number. Once a DOT number has been assigned the carrier must then register their company with National Motor Freight Traffic Association (NMFTA.org) to get a valid Standard Carrier Alpha Code (SCAC).
-Once the carrier has a valid Standard Carrier Alpha Code the carrier can then move forward in ordering barcode labels and processing ACE electronic manifests.
-Below are helpful articles that cover the process of crossing commercially into the United States:
 
+Once the carrier has a valid Standard Carrier Alpha Code the carrier can then move forward in ordering barcode labels and processing ACE electronic manifests.
+
+Below are helpful articles that cover the process of crossing commercially into the United States:
+Below are helpful articles that cover the process of crossing commercially into the United States:
+US Customs and Border Protection - Information
+US Customs and Border Protection - Information
 US Customs and Border Protection - Information
 Standard Carrier Alpha Code (CBP)
+Standard Carrier Alpha Code (CBP)
+ACE Manifest Software User Guide (CBP)
 ACE Manifest Software User Guide (CBP)
 CBP Highway Port Listing
+CBP Highway Port Listing
+Shipment Release Types for CBP
 Shipment Release Types for CBP
 Customs Glossary
+Customs Glossary
 U.S. Customs Compliance Documents (CBP)
- Application for SCAC Code
- Application for US DOT Number (MCS-150C)
- Application for Motor Carrier Number (OP-1)
- CBP Form 3299 (Personal Shipment)
- CBP Form 7523 (Free of Duty)
- CBP Form 3311 (Returned American Products)
+U.S. Customs Compliance Documents (CBP)
+ 
+ 
+Application for SCAC Code
+ 
+Application for US DOT Number (MCS-150C)
+ 
+Application for Motor Carrier Number (OP-1)
+ 
+CBP Form 3299 (Personal Shipment)
+ 
+CBP Form 7523 (Free of Duty)
+ 
+CBP Form 3311 (Returned American Products)
+Crossing Into Canada (CBSA)
 Crossing Into Canada (CBSA)
 In order to cross commercially into Canada, the carrier will need to register with the specific provincial transportation authority as a commercial carrier. In Ontario this is done through the Ministry of Transportation with a CVOR or (Commercial Vehicle Operators Registration). Once a carrier and driver is registered with a CVOR, the company will then apply for a Bonded or Non-Bonded Carrier Code with Canada Border Services Agency. This Carrier Code is a 4-character unique company identifier for use with cross-border shipments.
-Once the carrier code is valid, the carrier can then create barcode labels and register to process ACI eManifests.
-Below are helpful articles that cover the process of crossing commercially into Canada:
 
+Once the carrier code is valid, the carrier can then create barcode labels and register to process ACI eManifests.
+
+Below are helpful articles that cover the process of crossing commercially into Canada:
+Below are helpful articles that cover the process of crossing commercially into Canada:
+Canada Border Services Agency - Information
+Canada Border Services Agency - Information
 Canada Border Services Agency - Information
 Canadian Carrier Code (CBSA)
+Canadian Carrier Code (CBSA)
+ACI eManifest Software User Guide (CBSA)
 ACI eManifest Software User Guide (CBSA)
 CBSA Highway Port Listing
+CBSA Highway Port Listing
+Shipment Release Types for CBSA
 Shipment Release Types for CBSA
 Customs Glossary
+Customs Glossary
 Canadian Customs Compliance Documents (CBSA)
- CVOR Information (MTO)
- Commercial Vehicle Operators Registration (CVOR)
- Application for Carrier Code (BSF329-7)
- Changing Bond Status for Existing Carriers (BSF722)
- Temporary Admission Permit (E29B)
- Manual Correction Form - Post Arrival (BSF673)
+Canadian Customs Compliance Documents (CBSA)
+ 
+ 
+CVOR Information (MTO)
+ 
+Commercial Vehicle Operators Registration (CVOR)
+ 
+Application for Carrier Code (BSF329-7)
+ 
+Changing Bond Status for Existing Carriers (BSF722)
+ 
+Temporary Admission Permit (E29B)
+ 
+Manual Correction Form - Post Arrival (BSF673)
 Trusted Trader Programs
-Free and Secure Trade (FAST), is a joint initiative between CBP and CBSA designed to enhance border security while speeding up the processing of low risk shipments. Carriers that are FAST approved for the U.S. are able to transport FAST shipments, and are afforded special processing at the border including dedicated lanes and front of line line processing in the case of inspections.
+Trusted Trader Programs
+Free and Secure Trade (FAST)
+Free and Secure Trade (FAST)
+CBP
+CBSA
+ 
+ 
+FAST (Free and Secure Trade) - Information
+ 
+Free and Secure Trade (FAST) Program - CBSA
+ 
+FAST Commercial Driver Application (E673)
+Customs Self Assessment (CSA)
+Customs Self Assessment (CSA)
+ 
+ 
+CSA (Customs Self Assessment) - Information
+ 
+Customs Self Assessment (CSA) Program - CBSA
+Partners in Protection (PIP)
+Partners in Protection (PIP)
+ 
+ 
+PIP (Partners In Protection) - Information
+ 
+Partners In Protection (PIP) Program - CBSA
+Customs-Trade Partnership Against Terrorism (C-TPAT)
+Customs-Trade Partnership Against Terrorism (C-TPAT)
+ 
+ 
+C-TPAT (Customs-Trade Partnership Against Terrorism) - Information
+ 
+C-TPAT Program - CBP
 
- FAST (Free and Secure Trade) - Information
- Free and Secure Trade (FAST) Program - CBSA
- FAST Commercial Driver Application (E673)
-Customs Self Assessment (CSA) allows for the clearance of goods imported by a CSA Approved importer and transported by a CSA Approved carrier. For a shipment to clear under CSA both the importer and carrier must be CSA Approved, and the driver must be registered with either the Commercial Driver Registration Program (CDRP) or the Free And Secure Trade (FAST) driver registration program.
-
- CSA (Customs Self Assessment) - Information
- Customs Self Assessment (CSA) Program - CBSA
-Partners in Protection (PIP) is a cooperative program between private industry and the CBSA aimed at enhancing border and trade chain security. This voluntary program has no membership fee. It is designed to streamline and make border processes more efficient for low-risk, pre-approved businesses recognized as trusted traders.
-
- PIP (Partners In Protection) - Information
- Partners In Protection (PIP) Program - CBSA
-Customs-Trade Partnership Against Terrorism (C-TPAT) is a voluntary public-private sector supply chain security program led by U.S. Customs and Border Protection (CBP). Through this program, CBP works with the trade community to strengthen international supply chains and improve United States border security.
-
- C-TPAT (Customs-Trade Partnership Against Terrorism) - Information
- C-TPAT Program - CBP
 https://wiki.borderconnect.com/index.php/Status_Query_Feature_(CBSA_Shipments)
-This article is part of the BorderConnect PARS Software Guide.
-How to send and check the results of status queries in BorderConnect.This guide offers instructions on using BorderConnect's status query feature with BorderConnect's RNS-PARS software. This feature asks CBSA for the status of a particular shipment. While BorderConnect PARS will provide you with status updates for your carrier code automatically, there are a few situations where it's useful to be able manually ask CBSA what they have in their system for a particular shipment. These include:
+This article is part of the BorderConnect 
+
+This article is part of the BorderConnect 
+PARS Software Guide
+How to send and check the results of status queries in BorderConnect.
+How to send and check the results of status queries in BorderConnect.
+
+How to send and check the results of status queries in BorderConnect.
+How to send and check the results of status queries in BorderConnect.
+BorderConnect's status query feature
+RNS-PARS software
+BorderConnect PARS
+Checking the status of another carrier's PARS. Because CBSA will only send you automatic updates for PARS with your own carrier code, you wouldn't get them when you're hauling freight under another carrier's PARS.
 Checking the status of another carrier's PARS. Because CBSA will only send you automatic updates for PARS with your own carrier code, you wouldn't get them when you're hauling freight under another carrier's PARS.
 Checking to make sure a PARS was cancelled or no longer on file. Because CBSA only sends updates when a PARS is accepted or released, you will not receive notice when the broker cancels a PARS or changes the cargo control number.
 Checking the status of a PARS if you have reason to believe that the status in BorderConnect is not accurate. e.g. recent CBSA downtime may have caused missed messages or a broker's website shows a PARS is already accepted by CBSA, but you do not see it on BorderConnect.
 
 
+
+Sending a Status Query
 Sending a Status Query
 To get started with the status query feature, select the option 'Send New Status Query' from the 'PARS Shipments' menu.
 
+
+
+
+
 You will now be brought to a screen where you can enter the cargo control number that you want to get the status for. You will want to take care to enter the full number exactly as it appears on the PARS sticker or other document, with no spaces or special characters. Once you have the cargo control number entered, you can simply click the 'Send Status Query Request to CBSA' button.
 
+
+
+
+
 This will bring you to the Status Query Search Page. This page allows you to see what's going on with all of your recent status queries, and can also be used to look up past status queries using the search feature.
+
 The status query that you just sent will be listed as the first result, and it will say "Status Query Request transmitted with no response." It generally takes about 10-15 minutes for CBSA to respond to a status query, so you may want to leave the page to do something else and return to it later. When leave the page you can return to it at any time by selecting 'Status Query Search' under the 'PARS Shipments' menu.
 
-After 10 or 15 minutes have gone by, you should check back at the search page to see what the response was for your status query. CBSA will respond saying the status is either not on file, accepted or released. In the case of an accepted or released response, the shipment will also appear under Newest Shipments and/or Shipment Search, depending on the date. For users of BorderConnect ACI the accepted or released response will also link up with your manifest.
+
+
+
+
+After 10 or 15 minutes have gone by, you should check back at the search page to see what the response was for your status query. CBSA will respond saying the status is either not on file, accepted or released. In the case of an accepted or released response, the shipment will also appear under 
+Newest Shipments
+Shipment Search
 In the case of a not on file response, the shipment will be marked as purged if it was previously accepted.
 
 
+
+
+
+Other Ways of Sending a Status Query
 Other Ways of Sending a Status Query
 1. When sending a status query for a shipment that was previously accepted, a convenient shortcut is to click the View link for that shipment where it is listed under your Accepted Shipments, and then use the Send Status Query button from there. This will fill in the cargo control number for you on the send new status query page, so that you only have to press the send button to send it off.
 
-2. When preparing an ACI eManifest for another carrier's PARS, you can also send a status query from the ACI Shipment you are preparing. A 'Send Status Query' button will be located in the ACI Shipment Details Page for any ACI Shipment with a Carrier Code that is not part of your RNS (PARS Checking) profile.
+
+
+
+
+2. When preparing an 
+ACI eManifest
+ACI Shipment Details Page
+Carrier Code
+
+
+
+
+
 https://wiki.borderconnect.com/index.php/US_In_Bond_Manager_Guide_(CBP)
-This article is part of the U.S. In-Bond Manager for CBP.
-How to Use BorderConnect's In-Bond ManagerThis guide offers instructions on using BorderConnect's U.S In-Bond Manager Add-On. BorderConnect U.S. In-Bond Manager allows users to electronically report in-bond arrivals, exports, and port diversions to US Customs and Border Protection. It provides greater visibility of in-bond shipments through the use of the included In-Bond Status Query feature.
+This article is part of the 
+
+This article is part of the 
+U.S. In-Bond Manager for CBP
+How to Use BorderConnect's In-Bond Manager
+How to Use BorderConnect's In-Bond Manager
+
+How to Use BorderConnect's In-Bond Manager
+How to Use BorderConnect's In-Bond Manager
+U.S In-Bond Manager
+BorderConnect U.S. In-Bond Manager
+US Customs and Border Protection
+Contents
 Contents
 
-1 Introduction
-2 Registering for BorderConnect U.S. In-Bond Manager and Getting Started
-3 In-Bond Dashboard Guide
-4 Reporting In-Bond Arrivals and Exports
-5 QP In-Bond Filing Instructions
-6 BorderConnect U.S. In-Bond Manager Menu
 
-6.1 In-Bond Dashboard
-6.2 In-Bond Status Queries
-6.3 WP Send Requests
-
-
-7 U.S. In-Bond Manager Software User Guide
-8 New In-Bond Regulations FAQ
-
-
-
+1
+1
+1
 Introduction
-New regulations were announced by CBP in 2017 concerning electronic reporting of In-Bond shipments.[1] These regulations were enforced on July 29, 2019.[2]
+2
+2
+2
+Registering for BorderConnect U.S. In-Bond Manager and Getting Started
+3
+3
+3
+In-Bond Dashboard Guide
+4
+4
+4
+Reporting In-Bond Arrivals and Exports
+5
+5
+5
+QP In-Bond Filing Instructions
+6
+6
+6
+BorderConnect U.S. In-Bond Manager Menu
+
+
+6.1
+6.1
+6.1
+In-Bond Dashboard
+6.2
+6.2
+6.2
+In-Bond Status Queries
+6.3
+6.3
+6.3
+WP Send Requests
+7
+7
+7
+U.S. In-Bond Manager Software User Guide
+8
+8
+8
+New In-Bond Regulations FAQ
+Introduction
+Introduction
+New regulations were announced by CBP in 2017 concerning electronic reporting of In-Bond shipments.
+[1]
+[1]
+[2]
+[2]
 Currently, carriers with an In-Bond shipment can present a paper 7512 copy of the in-bond to CBP at the destination port, and officers will arrive and/or export the in-bond for the carrier. This "closes" or "cancels" the in-bond out, completing the bonded movement and making sure the carrier doesn't get penalized for an overdue in-bond.
+
 Under the new regulations, carriers will instead be required to electronically report the arrival and export of the in-bond shipment. In-bond port diversions are also required to be reported electronically. BorderConnect's U.S. In-Bond Manager uses CBP's Automated Broker Interface to allow carriers, freight forwarders, U.S. Bonded warehouses, and other affected parties to meet the new electronic reporting requirement.
 
 Notable Changes To The In-Bond Process
+Notable Changes To The In-Bond Process
+Notable Changes To The In-Bond Process
+1. Electronic reporting of in-bond arrival and export is mandatory. CBP will no longer accept a paper 7512 copy of the in-bond to perform arrival and export functionality. Electronic reporting must be conducted through a CBP approved EDI system.
 1. Electronic reporting of in-bond arrival and export is mandatory. CBP will no longer accept a paper 7512 copy of the in-bond to perform arrival and export functionality. Electronic reporting must be conducted through a CBP approved EDI system.
 2. In-bond arrival or export must be reported within 2 business days of the event.
 3. In-bond diversions must also be requested electronically rather than making the request to the CBP port.
@@ -850,526 +1666,1162 @@ Notable Changes To The In-Bond Process
 Please see the New In-Bond Regulations FAQ at the bottom of this page for further information.
 
 Registering for BorderConnect U.S. In-Bond Manager and Getting Started
-If your company doesn't already have an account with BorderConnect, go to www.borderconnect.com and click Sign Up Now. Enter your company details and finish the registration. Then, follow the instructions below.
-
+Registering for BorderConnect U.S. In-Bond Manager and Getting Started
+If your company doesn't already have an account with BorderConnect, go to 
+www.borderconnect.com
 If you DO NOT have a filer code.
+If you DO NOT have a filer code.
+If you DO NOT have a filer code.
+1. Contact us, we'll help you submit a Letter of Intent.
 1. Contact us, we'll help you submit a Letter of Intent.
 2. In approximately 2 weeks, U.S. Customs and Border Protection will issue you a filer code. Please note that processing times can vary according to the volume that CBP is currently handling.
 3. Our CBP client representative will set up your filer code to work with BorderConnect for In-Bond only filing. You can now begin using the BorderConnect ABI add-on.
 If you already have a filer code.
+If you already have a filer code.
+If you already have a filer code.
+ Our CBP client representative will set up your filer code to work with BorderConnect for In-Bond only filing.
  Our CBP client representative will set up your filer code to work with BorderConnect for In-Bond only filing.
 In-Bond Dashboard Guide
-  In-Bond Dashboard
+In-Bond Dashboard Guide
+  
+  
+
+
+In-Bond Dashboard
+
+
+In-Bond Manager Dashboard (U.S. In-Bond Manager)
+In-Bond Manager Dashboard (U.S. In-Bond Manager)
 In-Bond Manager Dashboard (U.S. In-Bond Manager)
 The In-Bond Dashboard provides complete visibility for U.S. in-bond shipments. Track in-bonds from filing to closing using advanced search options. See status of in-bonds at a glance and drill in to advanced reports and actions from one screen. Verify in-bonds were successfully reported and get in-bond details directly from CBP with In-Bond Status Query.
 
 Reporting In-Bond Arrivals and Exports
-  Sending In-Bond Arrival
+Reporting In-Bond Arrivals and Exports
+  
+  
+
+
+Sending In-Bond Arrival
+
+
+Reporting In-Bond Arrivals and Exports (U.S. In-Bond Manager)
+Reporting In-Bond Arrivals and Exports (U.S. In-Bond Manager)
 Reporting In-Bond Arrivals and Exports (U.S. In-Bond Manager)
 Electronically arrive and export your U.S. in-bonds with minimal data entry. BorderConnect provides a fast and easy way to meet CBP's new in-bond requirements. Diverting in-bonds used to be a manual process that involved contacting the originating CBP port. With new electronic diversions, changing ports is a 1 minute process from request to approval.
 
 QP In-Bond Filing Instructions
+QP In-Bond Filing Instructions
+Creating and submitting a new QP In-Bond (U.S. In-Bond Manager)
+Creating and submitting a new QP In-Bond (U.S. In-Bond Manager)
 Creating and submitting a new QP In-Bond (U.S. In-Bond Manager)
 Electronically file a QP In-Bond using BorderConnect U.S. In-Bond Manager.
 
 BorderConnect U.S. In-Bond Manager Menu
+BorderConnect U.S. In-Bond Manager Menu
 Displays all options in BorderConnect's U.S. In-Bond Manager. Options will only be available if your account has already been set up for BorderConnect's In-Bond Manager as above.
 
 
+
+
+
+In-Bond Dashboard
+In-Bond Dashboard
+In-Bond Dashboard
 In-Bond Dashboard
 In-Bond Dashboard
  This is the main listing page for all of your in-bond shipments. It shows a list of in-bond reports, summarizing all known information for a given in-bond, including in-bond status, in-bond type, and port information.
 In-Bond Status Queries
+In-Bond Status Queries
+In-Bond Status Query Search
+In-Bond Status Query Search
 In-Bond Status Query Search
  This page allows users to view in-bond status queries and see their responses from CBP. Please note that that in-bond status query results are also grouped and summarized in the in-bond reports available on the In-Bond Dashboard.
 Send In-Bond Status Query
+Send In-Bond Status Query
  This page allows users send status queries for in-bond shipments. On this page, users can enter in-bond entry numbers and send requests to CBP to gather up-to-date information on specific in-bonds. Responses will be shown on the In-Bond Status Query Search page.
+WP Send Requests
 WP Send Requests
 WP is the message type used to electronically report in-bond arrival, export, port diversion, or transfer of liability to CBP.
 
 WP Send Request Search
+WP Send Request Search
+WP Send Request Search
  This page helps users search for previous WP send requests. Please note that that WP requests and results are also grouped and summarized in the in-bond reports available on the In-Bond Dashboard.
+Arrive Entire In-Bond
 Arrive Entire In-Bond
  Notifies CBP that the in-bond shipment has arrived at the destination (far side) port specified on the in-bond. Using this option will arrive the entire in-bond, even if it consists of multiple bills of lading and/or containers.
 Arrive Bill of Lading
+Arrive Bill of Lading
  Notifies CBP that one of the bills on lading of an in-bond shipment has arrived at the destination (far side) port specified on the in-bond. Using this option will arrive only one bill of lading on the in-bond, though if the in-bond only consists of a single bill of lading, this will still have the effect of arriving the entire in-bond.
+Arrive Container
 Arrive Container
  Notifies CBP that one of the containers on an in-bond shipment has arrived at the destination (far side) port specified on the in-bond. Using this option will arrive only one container on the in-bond, though if the in-bond only consists of a single container, this will still have the effect of arriving the entire in-bond.
 Export Entire In-Bond
+Export Entire In-Bond
  Notifies CBP that the in-bond shipment has left the US. Using this option will export the entire in-bond, even if it consists of multiple bills of lading and/or containers.
+Export Bill of Lading
 Export Bill of Lading
  Notifies CBP that one of the bills on lading of an in-bond shipment has left the US. Using this option will export only one bill of lading on the in-bond, though if the in-bond only consists of a single bill of lading, this will still have the effect of exporting the entire in-bond.
 Export Container
+Export Container
  Notifies CBP that one of the containers on an in-bond shipment has left the US. Using this option will export only one container on the in-bond, though if the in-bond only consists of a single container, this will still have the effect of exporting the entire in-bond.
+Port Diversion
 Port Diversion
  Requests a change to the destination port of and in-bond shipment.
 Transfer Liability
+Transfer Liability
  Transfers the liability for the in-bond shipment from the currently obligated party to a new one. This option should not be used without an understanding of when it is permitted by CBP.
 U.S. In-Bond Manager Software User Guide
-  U.S. In-Bond Dashboard Page
+U.S. In-Bond Manager Software User Guide
+  
+  
+
+
+U.S. In-Bond Dashboard Page
+
+
 The below articles focus on the different pages and features users will come across using BorderConnect U.S. In-Bond Manager software.
 
- In-Bond Dashboard Page
+ 
+ 
+In-Bond Dashboard Page
 QP In-Bonds
-
- Start New QP In-Bond Page
- Start New QP Bill of Lading Page
- Add New Commodity to QP Bill of Lading Page
- QP In-Bond Details for In-Bond Page
- QP In-Bond Search Page
- In-Bond Status Notifications Page
- In-Bond Status Notification Details Page
+QP In-Bonds
+ 
+ 
+Start New QP In-Bond Page
+ 
+Start New QP Bill of Lading Page
+ 
+Add New Commodity to QP Bill of Lading Page
+ 
+QP In-Bond Details for In-Bond Page
+ 
+QP In-Bond Search Page
+ 
+In-Bond Status Notifications Page
+ 
+In-Bond Status Notification Details Page
 Data Management
-
- QP Importing Carriers Search Page
- QP Shippers and Consignees Search Page
- Bonded Carrier ID Numbers Search Page
- In-Bond Sequences Page
- QP Subscribed Carrier Codes Search Page
- QP Commodity Descriptions Search Page
+Data Management
+ 
+ 
+QP Importing Carriers Search Page
+ 
+QP Shippers and Consignees Search Page
+ 
+Bonded Carrier ID Numbers Search Page
+ 
+In-Bond Sequences Page
+ 
+QP Subscribed Carrier Codes Search Page
+ 
+QP Commodity Descriptions Search Page
 Status Queries
-
- Search In-Bond Status Queries Page
- Send In-Bond Status Query Page
- Search Carrier Code Queries Page
+Status Queries
+ 
+ 
+Search In-Bond Status Queries Page
+ 
+Send In-Bond Status Query Page
+ 
+Search Carrier Code Queries Page
 WP Send Requests
-
- WP Send Request Search Page
- Arrive Entire In-Bond Page
- Arrive Bill of Lading Page
- Arrive Container Page
- Export Entire In-Bond Page
- Export Bill of Lading Page
- Export Container Page
- Send In-Bond Port Diversion Page
- Send Transfer of Liability Page
+WP Send Requests
+ 
+ 
+WP Send Request Search Page
+ 
+Arrive Entire In-Bond Page
+ 
+Arrive Bill of Lading Page
+ 
+Arrive Container Page
+ 
+Export Entire In-Bond Page
+ 
+Export Bill of Lading Page
+ 
+Export Container Page
+ 
+Send In-Bond Port Diversion Page
+ 
+Send Transfer of Liability Page
 New In-Bond Regulations FAQ
-Below are some of the common questions regarding the changes to the in-bond process. You can also download a .pdf of the new in-bond requirements here.
+New In-Bond Regulations FAQ
+Below are some of the common questions regarding the changes to the in-bond process. 
+You can also download a .pdf of the new in-bond requirements here
+1. What is changing with the new in-bond regulations on July 29th? What do I have to do differently?
 1. What is changing with the new in-bond regulations on July 29th? What do I have to do differently?
 The biggest change is that in-bond arrivals and exports must now be reported electronically. Until this point it was possible to report to CBP with a paper copy of the 7512, and a CBP officer would arrive and export the in-bond for you, ΓÇ£closingΓÇ¥ the in-bond. Starting July 29th, 2019, that will no longer be an option. Arrival and export must be reported electronically using a CBP-approved EDI system. In-bond diversions must also be requested electronically.
+
+2. Does this mean I wonΓÇÖt have to stop at the CBP port anymore?
 2. Does this mean I wonΓÇÖt have to stop at the CBP port anymore?
 ItΓÇÖs possible that you would still need to report in to CBP at the port if the goods in your shipment are regulated by other government departments or CBP policy otherwise requires it. But if the purpose of stopping at the CBP port is only to report the arrival and export of the in-bond, then you would not
 need to stop.
+
+3. Whose responsibility is electronic reporting of arrival and export?
 3. Whose responsibility is electronic reporting of arrival and export?
 The carrier whose bond is obligated on the in-bond shipment is ultimately responsible for ensuring that the in-bond is arrived and, if required, exported. The arrival and export reporting may be done by any authorized agent of the responsible carrier, but the responsibility and liability is still always on the bond holder.
+
+4. What are my options for electronic reporting of in-bond arrival and export?
 4. What are my options for electronic reporting of in-bond arrival and export?
 There are four options:
-
+There are four options:
+Using a CBP-approved QP/WP program. BorderConnectΓÇÖs U.S. In-Bond Manager (ABI In-Bonds) is CBP-approved for this purpose and allows clients to arrive and export their in-bonds.
 Using a CBP-approved QP/WP program. BorderConnectΓÇÖs U.S. In-Bond Manager (ABI In-Bonds) is CBP-approved for this purpose and allows clients to arrive and export their in-bonds.
 Contracting an agent to arrive and export in-bonds for you. Anyone with access to a QP/WP system can report in-bond arrival and export on your behalf if they have a letter of authorization from you to do so.
+Contracting an agent to arrive and export in-bonds for you. Anyone with access to a QP/WP system can report in-bond arrival and export on your behalf if they have a letter of authorization from you to do so.
+In cases where the in-bond is linked to an ACE eManifest that you have access to, you can use the eManifest to do the electronic reporting. In BorderConnect, these options are available on the shipment details page.
 In cases where the in-bond is linked to an ACE eManifest that you have access to, you can use the eManifest to do the electronic reporting. In BorderConnect, these options are available on the shipment details page.
 Using the ACE Portal. Any carrier with an ACE Portal account can use its in-bond arrival and export functionality.
+Using the ACE Portal. Any carrier with an ACE Portal account can use its in-bond arrival and export functionality.
+5. IΓÇÖm already arriving and exporting my in-bonds using ACE eManifest. Am I all set?
 5. IΓÇÖm already arriving and exporting my in-bonds using ACE eManifest. Am I all set?
 That depends. You are meeting your electronic reporting requirements for those in-bonds that youΓÇÖre handling that way. But if you ever pick up in-bond shipments within the U.S., there would be no ACE eManifest for you to use for reporting, so you would need to use one of the other options above instead. You would also need to use another option if another party did the ACE eManifest, since you wouldnΓÇÖt have access to it in that case. We would recommend getting set up for BorderConnectΓÇÖs U.S. In-Bond Manager either way, so that you are set up to handle electronic reporting for any and all cases.
+
+6. What is in-bond arrival? When does it take place, and when is it required to be reported?
 6. What is in-bond arrival? When does it take place, and when is it required to be reported?
 In-bonds of type 61 (Immediate Transportation) and 62 (Transportation and Exportation) cover the movement of a shipment through the U.S., beginning at an originating port and ending at a destination port. In-Bond arrival takes place when the shipment reaches the destination port. Arrival of the in-bond must be reported to CBP within 2 business days after it has taken place. For an Immediate Transportation in-bond, this completes the in-bond move and ΓÇ£closesΓÇ¥ the in-bond.
+
+7. What is in-bond export? When does it take place, and when is it required to be reported?
 7. What is in-bond export? When does it take place, and when is it required to be reported?
 In-bonds of type 62 (Transportation and Exportation) and 63 (Immediate Export) cover the movement of a shipment that is destined outside of the U.S. Export of the in-bond takes place when the shipment has physically left the U.S., or when the shipment is located where exportation is reasonably assured. For example at a seaport, airport or rail location and under control of the exporting carrier. Export of the in-bond must be reported to CBP within 2 business days after it has taken place. For in-bonds of type Transportation and Exportation and Immediate Export, this completes the in-bond move and ΓÇ£closesΓÇ¥ the in-bond. Please note that a Transportation and Exportation in-bond must be arrived prior to being exported. (See above.)
+
+8. Can you take me through all of the statuses in the in-bond process?
 8. Can you take me through all of the statuses in the in-bond process?
 Sure, there are 5 main statuses an in-bond takes on during the in-bond process:
 
-On File: An in-bond will have this status when it has first been created, but before the shipment enters the U.S.
-Enroute: An in-bond will attain Enroute status either when the shipment first enters the U.S., or immediately when the in-bond is created if it is for a bonded warehouse or foreign trade zone withdrawal. Enroute signifies that the in-bond movement from the originating port to the destination port has begun. In-bond shipments have a maximum of 30 days to reach their destination, after which they will be overdue.
-Arrived: An in-bond will attain Arrived status once it has reached its destination port in the U.S., and its arrival has been electronically reported to CBP. For in-bonds of type Immediate Transportation, this completes the in-bond process and the in-bond is now considered ΓÇ£closedΓÇ¥.
-Exported: An in-bond will attain Exported status once it has left the U.S., and its export has been electronically reported to CBP. The export can also be reported when the shipment is located where exportation is reasonably assured. For example at a seaport, airport or rail location and under control of the exporting carrier. For in-bonds of type Transportation and Exportation and type Immediate Export, this completes the in-bond process and the in-bond is now considered ΓÇ£closedΓÇ¥.
-Concluded: It is common practice in some situations, including in-bond shipments destined to Mexico, for the in-bond to be acquitted by the filing of a subsequent in-bond. In this case, your in-bond will still show as being in Arrived status, but you can use the Check For Subsequent In-Bond feature in BorderConnectΓÇÖs U.S. In-Bond Manager to verify that a subsequent in-bond has been filed. This will cause your in-bond to be marked as Concluded, because the filing of the subsequent in-bond will transfer the liability from your in-bond and complete the in-bond process. Your in-bond will be considered ΓÇ£closedΓÇ¥.
+On File:
+On File:
+On File:
+Enroute:
+Enroute:
+Enroute:
+Arrived:
+Arrived:
+Arrived:
+Exported:
+Exported:
+Exported:
+Concluded:
+Concluded:
+Concluded:
+9. What about the new FIRMS code requirement for arrival reporting? What is a FIRMS code, and how do I know which one to use?
 9. What about the new FIRMS code requirement for arrival reporting? What is a FIRMS code, and how do I know which one to use?
 The in-bond regulation changes also mandate that a FIRMS code must be included when reporting the arrival of an in-bond. The FIRMS code tells CBP more specifically where the in-bond shipment has arrived. Where the port code tells CBP the general area, the FIRMS code tells them the specific facility the goods have arrived at. The FIRMS code you use must always be associated to the destination port of the in-bond.
+
 Depending on the type of in-bond movement, the FIRMS code you need to use may refer to different types of facilities:
 
 A CBP port facility. This would be used in cases where youΓÇÖre reporting the arrival of an in-bond that has already left the U.S., such as a Transportation and Exportation in-bond that has already crossed into Canada. The appropriate CBP port facility would be that of the port of exit from the U.S.
+A CBP port facility. This would be used in cases where youΓÇÖre reporting the arrival of an in-bond that has already left the U.S., such as a Transportation and Exportation in-bond that has already crossed into Canada. The appropriate CBP port facility would be that of the port of exit from the U.S.
+A U.S. bonded warehouse or foreign trade zone. Applicable whenever the in-bond movement covers delivery to one of these two types of facility.
 A U.S. bonded warehouse or foreign trade zone. Applicable whenever the in-bond movement covers delivery to one of these two types of facility.
 An airport, seaport, or other secure carrier facility.
+An airport, seaport, or other secure carrier facility.
 BorderConnectΓÇÖs U.S. In-Bond Manager provides several convenience features to make it easier to find the appropriate FIRMS code. FIRMS codes can be selected by name or address when known, or by entering the port code of the destination port to see all FIRMS codes available for that port.
+
+10. A customs broker is setting up my in-bonds for me. DoesnΓÇÖt that mean theyΓÇÖll be handling the arrival and export reporting for me too?
 10. A customs broker is setting up my in-bonds for me. DoesnΓÇÖt that mean theyΓÇÖll be handling the arrival and export reporting for me too?
 Many customs brokers may offer this as an additional service, but they are not required to do so. You would need to check in with them to determine if itΓÇÖs a service they offer, what rates they charge, and what their requirements are.
+
+11. Another carrier has offered to handle electronic reporting for me. Is that okay?
 11. Another carrier has offered to handle electronic reporting for me. Is that okay?
 Yes, carriers, freight forwarders, and bonded warehouses may offer to handle electronic reporting for carriers they are doing business with. If they have access to a CBP-approved EDI system and you provide them with a letter of authorization, they can handle reporting for you.
+
+12. Okay, so IΓÇÖm having someone else handle electronic reporting of arrivals and exports for me. Is there any way for me to check their work so that I donΓÇÖt end up with a surprise penalty?
 12. Okay, so IΓÇÖm having someone else handle electronic reporting of arrivals and exports for me. Is there any way for me to check their work so that I donΓÇÖt end up with a surprise penalty?
 Yes. BorderConnectΓÇÖs U.S. In-Bond Manager offers an in-bond status query feature that allows you to verify the current status of your in-bond with CBP. The status query response would also allow you to verify other details such as the in-bond originating and destination ports, and the quantity. For in-bonds destined to Mexico, it also allows you to verify that a subsequent in-bond has been filed, so that your in-bond is no longer liable.
+
+13. What about in-bond diversions? What are the new requirements there?
 13. What about in-bond diversions? What are the new requirements there?
 An in-bond diversion occurs when a carrier wants to change the in-bond destination from one port to another. Previously, the carrier could contact the CBP port to request permission to divert the in-bond. These requests must now be done electronically instead. A CBP-approved QP/WP program such as BorderConnectΓÇÖs U.S. In-Bond Manager allows carriers to make these electronic diversion requests.
+
+14. Is it true the paper 7512 copy of the in-bond is being eliminated?
 14. Is it true the paper 7512 copy of the in-bond is being eliminated?
 The paper 7512 can no longer be presented to CBP to arrive and export an in-bond, and the regulations do include the elimination of the paper 7512. However, there are numerous exceptions to this, including shipments moving by air, the requirements of specific CBP ports, and as part of bonded warehouse and foreign trade zone movements. As such, we recommend continuing to keep a paper 7512 copy with the shipment unless youΓÇÖre able to specifically rule out the possibility that it will be needed at some point in the process.
+
+15. What about the new HTS requirement for Immediate Transportation in-bonds?
 15. What about the new HTS requirement for Immediate Transportation in-bonds?
 The regulations will require all types of in-bonds to include a six digit Harmonized Tariff Schedule (HTS) number when they are filed, including in-bond types that didnΓÇÖt previously require an HTS number such as Immediate Transportation. (Transportation and Exportation in-bonds have always required HTS.) This
 part of the in-bond regulation changes is not yet being enforced though, and currently no date has been set for enforcement.
+
+16. How can I sign up for BorderConnectΓÇÖs U.S. In-Bond Manager?
 16. How can I sign up for BorderConnectΓÇÖs U.S. In-Bond Manager?
 In order to use our U.S. In-Bond Manager, you will need a filer code issued by CBP. BorderConnect will work with you to create a Letter of Intent to submit to CBP, which will result in you being issued a filer code and being set up to use our system. This process can take several weeks depending on the current volume that CBP is processing. Because of this we recommend you apply as soon as possible.
+
 If you already have a filer code, we can help you work with your CBP Client Rep to set it up to work with
 
-our system.
-Γåæ https://www.federalregister.gov/documents/2017/09/28/2017-20495/changes-to-the-in-bond-process
+Γåæ
+Γåæ
+Γåæ
+https://www.federalregister.gov/documents/2017/09/28/2017-20495/changes-to-the-in-bond-process
+https://www.federalregister.gov/documents/2017/09/28/2017-20495/changes-to-the-in-bond-process
+Γåæ
+Γåæ
+Γåæ
+https://content.govdelivery.com/accounts/USDHSCBP/bulletins/24effce
+https://content.govdelivery.com/accounts/USDHSCBP/bulletins/24effce
 
-Γåæ https://content.govdelivery.com/accounts/USDHSCBP/bulletins/24effce
 https://wiki.borderconnect.com/index.php/PARS_Checking_Software_User_Guide_(CBSA_Shipments)
-This article is part of the BorderConnect PARS Software Guide.
-BorderConnect's PARS Checking software uses CBSA's Release Notification System (RNS) to provide carriers with up to date information on everything that's going on with their carrier code, including the status of their PARS shipments. Carriers can benefit from using the software in several ways, including:
+This article is part of the BorderConnect 
 
+This article is part of the BorderConnect 
+PARS Software Guide
+BorderConnect's
+BorderConnect's
+BorderConnect's
+PARS Checking software
+CBSA
+PARS
+Seeing if all PARS are set up by the broker, regardless of whether the broker has a website or is closed for the night.
 Seeing if all PARS are set up by the broker, regardless of whether the broker has a website or is closed for the night.
 Verifying PARS number and port entered by broker matches the PARS sticker and intended port of entry.
 For clients of BorderConnect's ACI eManifest software, PARS checking will tie in to their manifests to help ensure PARS numbers are keyed exactly.
 Getting notification of all PARS and in bond shipments released by CBSA.
 Printing a release notification report that acts as proof of release.
 Getting Started
+Getting Started
 If you have not already done so, the first step is to register for RNS with CBSA. To do so please call a BorderConnect representative at any time to have the application sent to CBSA for you. Applications take approximately one week to be processed.
 
 PARS Checking Instructions
+PARS Checking Instructions
 Please refer to the individual sections for complete instructions on the following:
 
- Checking the status of your latest shipments
- Searching for a particular shipment
- Checking another carrier's PARS/manual PARS updates
- Sending Warehouse Arrival Certification Message (WACM)
- Checking the CFIA Inspection status of a meat shipment
+ 
+ 
+Checking the status of your latest shipments
+ 
+Searching for a particular shipment
+ 
+Checking another carrier's PARS/manual PARS updates
+ 
+Sending Warehouse Arrival Certification Message (WACM)
+ 
+Checking the CFIA Inspection status of a meat shipment
+
 
 
 PARS Shipment Tutorials
+PARS Shipment Tutorials
+
+
+
+
 
 
 How to check the status of PARS shipments in BorderConnect.
+How to check the status of PARS shipments in BorderConnect.
+How to check the status of PARS shipments in BorderConnect.
 
+How to check the status of PARS shipments in BorderConnect.
+How to check the status of PARS shipments in BorderConnect.
+How to send and check the results of status queries in BorderConnect.
+How to send and check the results of status queries in BorderConnect.
 How to send and check the results of status queries in BorderConnect.
 
+How to send and check the results of status queries in BorderConnect.
+How to send and check the results of status queries in BorderConnect.
 How To Send Warehouse Arrival Certification Messages in BorderConnect.
+How To Send Warehouse Arrival Certification Messages in BorderConnect.
+How To Send Warehouse Arrival Certification Messages in BorderConnect.
+
+How To Send Warehouse Arrival Certification Messages in BorderConnect.
+How To Send Warehouse Arrival Certification Messages in BorderConnect.
+
+
+
+
 https://wiki.borderconnect.com/index.php/BorderConnect_Software_User_Guide
-This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the ACE Manifest Software Guide or for help with ACI visit the ACI eManifest Software Guide.
+This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the 
+
+This guide focuses on the user-interface of BorderConnect software. For help with ACE, visit the 
+ACE Manifest Software Guide
+ACI eManifest Software Guide
+Contents
 Contents
 
-1 Introduction
-2 Getting Started
-3 Administrative Features
-4 Management Features
-5 ACI Software User Guide
-6 ACE Software User Guide
-7 U.S. In-Bond Manager Software User Guide
-8 Software Tutorials
 
-
-
+1
+1
+1
 Introduction
-The BorderConnect Software User Guide focuses on the user interface and features of BorderConnect software. It helps customers familiarize themselves with using the software. BorderConnect's eManifest software offers an extremely user-friendly web-based solution to comply with eManifest requirements, complete with 24/7 technical support.
-
+2
+2
+2
 Getting Started
-  Trailer Details Page
+3
+3
+3
+Administrative Features
+4
+4
+4
+Management Features
+5
+5
+5
+ACI Software User Guide
+6
+6
+6
+ACE Software User Guide
+7
+7
+7
+U.S. In-Bond Manager Software User Guide
+8
+8
+8
+Software Tutorials
+Introduction
+Introduction
+The 
+BorderConnect Software User Guide
+BorderConnect's
+24/7 technical support.
+Getting Started
+Getting Started
+  
+  
+
+
+Trailer Details Page
+
+
 The first step is create profiles for any drivers, trucks and trailers that may be crossing the border. The information in these profiles will be used to complete mandatory fields on your manifests. It is recommended that you enter the profile information ahead of time to facilitate creating eManifests. Please refer to the individual sections for instructions on entering and maintaining:
 
 Driver profiles
+Driver profiles
+Driver profiles
+Passenger profiles
 Passenger profiles
 Truck profiles
+Truck profiles
 Trailer profiles
+Trailer profiles
+Administrative Features
 Administrative Features
 Once a user creates an account with BorderConnect, and are created as a "super-user" they will have access to company and administrative features. Those features and pages are listed below.
 
- Company Details Page
- Company Settings Page
- My Account Settings Page
+ 
+ 
+Company Details Page
+ 
+Company Settings Page
+ 
+My Account Settings Page
 Management Features
-  Create a Driver Page
+Management Features
+  
+  
+
+
+Create a Driver Page
+
+
 The articles listed below include any other features or pages users would come across in the BorderConnect software.
+
 Driver Management
-
- Add New Driver Page
- Driver Search Page
- Driver Details Page
+Driver Management
+ 
+ 
+Add New Driver Page
+ 
+Driver Search Page
+ 
+Driver Details Page
 Truck Management
-
- Add Truck Page
- Truck Search Page
- Truck Details Page
+Truck Management
+ 
+ 
+Add Truck Page
+ 
+Truck Search Page
+ 
+Truck Details Page
 Trailer Management
-
- Add Trailer Page
- Trailer Search Page
- Trailer Details Page
+Trailer Management
+ 
+ 
+Add Trailer Page
+ 
+Trailer Search Page
+ 
+Trailer Details Page
 Passenger Management
-
- Add Passenger Page
- Passenger Details Page
- Passenger Search Page
+Passenger Management
+ 
+ 
+Add Passenger Page
+ 
+Passenger Details Page
+ 
+Passenger Search Page
 Other Management Features
-
- eManifest Tracking Feature
+Other Management Features
+ 
+ 
+eManifest Tracking Feature
 ACI Software User Guide
-  ACI Shipment details page
-  ACI CSA Importer Search Page
-The below articles focus on the different pages and features users will come across using BorderConnect ACI eManifest software. For core ACI eManifest articles visit the ACI eManifest Software User Guide
+ACI Software User Guide
+  
+  
+
+
+ACI Shipment details page
+
+
+  
+  
+
+
+ACI CSA Importer Search Page
+
+
+The below articles focus on the different pages and features users will come across using BorderConnect ACI eManifest software. For core ACI eManifest articles visit the 
+ACI eManifest Software User Guide
 ACI eManifests
-
- Start New ACI eManifest Page
- ACI eManifest Search Page
- Edit ACI eManifest Page
- ACI eManifest Details Page
- Generating ACI Lead Sheets
+ACI eManifests
+ 
+ 
+Start New ACI eManifest Page
+ 
+ACI eManifest Search Page
+ 
+Edit ACI eManifest Page
+ 
+ACI eManifest Details Page
+ 
+Generating ACI Lead Sheets
 ACI Shipments
-
- Start New ACI Shipment Page
- ACI Shipment Search Page
- Edit ACI Shipment Page
- ACI Shipment Details Page
- Add/Edit Commodity for ACI Shipment Page
+ACI Shipments
+ 
+ 
+Start New ACI Shipment Page
+ 
+ACI Shipment Search Page
+ 
+Edit ACI Shipment Page
+ 
+ACI Shipment Details Page
+ 
+Add/Edit Commodity for ACI Shipment Page
+ACI Notices
 ACI Notices
 ACI Data Management
-
- ACI Shipper/Consignee Search Page
- ACI Commodity Description Search Page
- ACI Hazardous Goods Search Page
- ACI CSA Importer Search Page
+ACI Data Management
+ 
+ 
+ACI Shipper/Consignee Search Page
+ 
+ACI Commodity Description Search Page
+ 
+ACI Hazardous Goods Search Page
+ 
+ACI CSA Importer Search Page
 ACE Software User Guide
-  ACE Manifest Search Page
-The below articles focus on the different pages and features users will come across using BorderConnect ACE Manifest software. For core ACE Manifest articles, visit ACE Manifest Software User Guide
+ACE Software User Guide
+  
+  
+
+
+ACE Manifest Search Page
+
+
+The below articles focus on the different pages and features users will come across using BorderConnect ACE Manifest software. For core ACE Manifest articles, visit 
+ACE Manifest Software User Guide
 ACE Manifests
-
- Start New ACE Manifest Page
- ACE Manifest Search Page
- Edit ACE Manifest Page
- ACE Manifest Details Page
+ACE Manifests
+ 
+ 
+Start New ACE Manifest Page
+ 
+ACE Manifest Search Page
+ 
+Edit ACE Manifest Page
+ 
+ACE Manifest Details Page
 ACE Shipments
-
- Start New ACE Shipment Page
- ACE Shipment Search Page
- Edit ACE Shipment Page
- ACE Shipment Details Page
- ACE Commodity Details Page
- Add/Edit Commodity for ACE Shipment Page
+ACE Shipments
+ 
+ 
+Start New ACE Shipment Page
+ 
+ACE Shipment Search Page
+ 
+Edit ACE Shipment Page
+ 
+ACE Shipment Details Page
+ 
+ACE Commodity Details Page
+ 
+Add/Edit Commodity for ACE Shipment Page
 ACE Data Management
-
- ACE In-Bond Sequences
+ACE Data Management
+ 
+ 
+ACE In-Bond Sequences
 U.S. In-Bond Manager Software User Guide
-  U.S. In-Bond Dashboard Page
-The below articles focus on the different pages and features users will come across using BorderConnect U.S. In-Bond Manager software. For core U.S. In-Bond Manager articles, visit U.S. In-Bond Manager Software User Guide
+U.S. In-Bond Manager Software User Guide
+  
+  
 
- In-Bond Dashboard Page
+
+U.S. In-Bond Dashboard Page
+
+
+The below articles focus on the different pages and features users will come across using BorderConnect U.S. In-Bond Manager software. For core U.S. In-Bond Manager articles, visit 
+U.S. In-Bond Manager Software User Guide
+ 
+ 
+In-Bond Dashboard Page
 QP In-Bonds
-
- Start New QP In-Bond Page
- Start New QP Bill of Lading Page
- Add New Commodity to QP Bill of Lading Page
- QP In-Bond Details for In-Bond Page
- QP In-Bond Search Page
- In-Bond Status Notifications Page
- In-Bond Status Notification Details Page
+QP In-Bonds
+ 
+ 
+Start New QP In-Bond Page
+ 
+Start New QP Bill of Lading Page
+ 
+Add New Commodity to QP Bill of Lading Page
+ 
+QP In-Bond Details for In-Bond Page
+ 
+QP In-Bond Search Page
+ 
+In-Bond Status Notifications Page
+ 
+In-Bond Status Notification Details Page
 Data Management
-
- QP Importing Carriers Search Page
- QP Shippers and Consignees Search Page
- Bonded Carrier ID Numbers Search Page
- In-Bond Sequences Page
- QP Subscribed Carrier Codes Search Page
- QP Commodity Descriptions Search Page
+Data Management
+ 
+ 
+QP Importing Carriers Search Page
+ 
+QP Shippers and Consignees Search Page
+ 
+Bonded Carrier ID Numbers Search Page
+ 
+In-Bond Sequences Page
+ 
+QP Subscribed Carrier Codes Search Page
+ 
+QP Commodity Descriptions Search Page
 Status Queries
-
- Search In-Bond Status Queries Page
- Send In-Bond Status Query Page
- Search Carrier Code Queries Page
+Status Queries
+ 
+ 
+Search In-Bond Status Queries Page
+ 
+Send In-Bond Status Query Page
+ 
+Search Carrier Code Queries Page
 WP Send Requests
-
- WP Send Request Search Page
- Arrive Entire In-Bond Page
- Arrive Bill of Lading Page
- Arrive Container Page
- Export Entire In-Bond Page
- Export Bill of Lading Page
- Export Container Page
- Send In-Bond Port Diversion Page
- Send Transfer of Liability Page
+WP Send Requests
+ 
+ 
+WP Send Request Search Page
+ 
+Arrive Entire In-Bond Page
+ 
+Arrive Bill of Lading Page
+ 
+Arrive Container Page
+ 
+Export Entire In-Bond Page
+ 
+Export Bill of Lading Page
+ 
+Export Container Page
+ 
+Send In-Bond Port Diversion Page
+ 
+Send Transfer of Liability Page
+Software Tutorials
 Software Tutorials
 
 
+
+
+
+
+How to create a driver in BorderConnect.
+How to create a driver in BorderConnect.
 How to create a driver in BorderConnect.
 
+How to create a driver in BorderConnect.
+How to create a driver in BorderConnect.
+How to create a passenger in BorderConnect.
+How to create a passenger in BorderConnect.
 How to create a passenger in BorderConnect.
 
+How to create a passenger in BorderConnect.
+How to create a passenger in BorderConnect.
+How to create a truck in BorderConnect.
+How to create a truck in BorderConnect.
 How to create a truck in BorderConnect.
 
+How to create a truck in BorderConnect.
+How to create a truck in BorderConnect.
+How to create a trailer in BorderConnect.
+How to create a trailer in BorderConnect.
 How to create a trailer in BorderConnect.
 
+How to create a trailer in BorderConnect.
+How to create a trailer in BorderConnect.
+How to create a user profile in BorderConnect.
+How to create a user profile in BorderConnect.
 How to create a user profile in BorderConnect.
 
+How to create a user profile in BorderConnect.
+How to create a user profile in BorderConnect.
+How to create a terminal in BorderConnect.
+How to create a terminal in BorderConnect.
+How to create a terminal in BorderConnect.
+
+How to create a terminal in BorderConnect.
 How to create a terminal in BorderConnect.
 
 
 
+
+
+
+How to create shippers and consignees in BorderConnect.
+How to create shippers and consignees in BorderConnect.
 How to create shippers and consignees in BorderConnect.
 
+How to create shippers and consignees in BorderConnect.
+How to create shippers and consignees in BorderConnect.
+How to create a SCAC code in BorderConnect.
+How to create a SCAC code in BorderConnect.
 How to create a SCAC code in BorderConnect.
 
+How to create a SCAC code in BorderConnect.
+How to create a SCAC code in BorderConnect.
+How to create a Canadian Carrier Code in BorderConnect.
+How to create a Canadian Carrier Code in BorderConnect.
 How to create a Canadian Carrier Code in BorderConnect.
 
+How to create a Canadian Carrier Code in BorderConnect.
+How to create a Canadian Carrier Code in BorderConnect.
+How to create an Insurance Policy in BorderConnect.
+How to create an Insurance Policy in BorderConnect.
 How to create an Insurance Policy in BorderConnect.
 
+How to create an Insurance Policy in BorderConnect.
+How to create an Insurance Policy in BorderConnect.
+How to create coversheets in BorderConnect.
+How to create coversheets in BorderConnect.
 How to create coversheets in BorderConnect.
 
+How to create coversheets in BorderConnect.
+How to create coversheets in BorderConnect.
+How to create a Hazardous Materials profile in BorderConnect.
+How to create a Hazardous Materials profile in BorderConnect.
+How to create a Hazardous Materials profile in BorderConnect.
+
+How to create a Hazardous Materials profile in BorderConnect.
 How to create a Hazardous Materials profile in BorderConnect.
 
 
 
+
+
+
+How to make a payment in BorderConnect.
+How to make a payment in BorderConnect.
 How to make a payment in BorderConnect.
 
+How to make a payment in BorderConnect.
+How to make a payment in BorderConnect.
 How to import and export data using BorderConnect.
+How to import and export data using BorderConnect.
+How to import and export data using BorderConnect.
+
+How to import and export data using BorderConnect.
+How to import and export data using BorderConnect.
+
+
+
+
 https://wiki.borderconnect.com/index.php/ACI_eManifest_Software_User_Guide_(CBSA)
-This article is part of the BorderConnect ACI eManifest Software Guide.
+This article is part of the BorderConnect 
+
+This article is part of the BorderConnect 
+ACI eManifest Software Guide
+
+
 
 Contents
-
-1 Introduction
-2 ACI eManifest Requirements
-
-2.1 One Hour Prior Notice
-2.2 ACI Lead Sheet
+Contents
 
 
-3 Getting Started
-4 ACI eManifest Instructions
-5 ACI eManifest Tutorials
-
-
-
+1
+1
+1
 Introduction
-ACI (Advance Commercial Information) is CBSA's eManifest program. It is intended to provide Customs officers with electronic pre-arrival information.[1] For highway carriers, it involves filing an electronic manifest at least one hour before the driver arrives at the border. 
-ACI eManifest entered a period of informed compliance on November 1, 2012, in which highway carriers were being encouraged to participate in the program. CBSA also announced at that time, that they will provide at least 45 days advance notice when it is confirmed.[2]
-On May 6, 2015 Canada Border Services Agency announced a mandatory transition timeline for highway carriers to comply with ACI eManifest. On July 10, 2015 carriers who do not comply with eManifest requirements may be issued zero-rated penalties (non-monetary) under the CBSAΓÇÖs Administrative Monetary Penalty System (AMPS). And beginning January 10, 2016 carriers who do not comply with eManifest requirements may be issued monetary AMPS penalties.[3]
-BorderConnect ACI eManifest software offers an extremely user-friendly web-based solution to comply with eManifest requirements, complete with 24/7 technical support.
+2
+2
+2
+ACI eManifest Requirements
 
+
+2.1
+2.1
+2.1
+One Hour Prior Notice
+2.2
+2.2
+2.2
+ACI Lead Sheet
+3
+3
+3
+Getting Started
+4
+4
+4
+ACI eManifest Instructions
+5
+5
+5
+ACI eManifest Tutorials
+Introduction
+Introduction
+ACI 
+(Advance Commercial Information)
+[1]
+[1]
+[2]
+[2]
+On May 6, 2015 Canada Border Services Agency announced a mandatory transition timeline for highway carriers to comply with ACI eManifest. On July 10, 2015 carriers who do not comply with eManifest requirements may be issued zero-rated penalties (non-monetary) under the CBSAΓÇÖs Administrative Monetary Penalty System (AMPS). And beginning January 10, 2016 carriers who do not comply with eManifest requirements may be issued monetary AMPS penalties.
+[3]
+[3]
+BorderConnect ACI eManifest software
+BorderConnect ACI eManifest software
+24/7 technical support.
+ACI eManifest Requirements
 ACI eManifest Requirements
 One Hour Prior Notice
+One Hour Prior Notice
+Under ACI eManifest regulations highway carriers must ensure that the complete ACI eManifest, including the trip and shipments are on file with CBSA for at least one hour prior to the driver's arrival at the border. Failure to do so could result in refused entry into Canada and/or an AMPS penalty.
 Under ACI eManifest regulations highway carriers must ensure that the complete ACI eManifest, including the trip and shipments are on file with CBSA for at least one hour prior to the driver's arrival at the border. Failure to do so could result in refused entry into Canada and/or an AMPS penalty.
 ACI Lead Sheet
+ACI Lead Sheet
+When arriving at the border in Canada, the driver must present an ACI lead sheet to the customs officer. The lead sheet allows the officer to bring up the ACI eManifest in their system.
 When arriving at the border in Canada, the driver must present an ACI lead sheet to the customs officer. The lead sheet allows the officer to bring up the ACI eManifest in their system.
 The lead sheet must have either:
+
 A barcoded Conveyance Reference Number (aka Trip Number), or
-A barcoded Cargo Control Number and a handwritten Conveyance Reference Number, or
+A barcoded Conveyance Reference Number (aka Trip Number), or
+A barcoded 
+Cargo Control Number
 A handwritten Conveyance Reference Number on the lead sheet presented with a separate page with a barcoded Cargo Control Number (e.g. invoice with a PARS sticker)
 The officer will stamp the lead sheet only as proof of report, they will no longer stamp individual shipments. The carrier has a responsibility to keep the stamped lead sheet as proof of report.
-ACI lead sheets can be generated from within BorderConnect, either from the manifest or as a set ahead of time. The carrier can also design and produce their own lead sheets, provided that they meet the barcode requirements listed above.
-As always, if you have any questions please contact us for further assistance and support.
-
+ACI lead sheets can be 
+generated from within BorderConnect
+As always, if you have any questions please 
+contact us
+Getting Started
 Getting Started
 If you have not already done so, the first step is to register for ACI with CBSA. Even if you are already set up for ACI with CBSA's eManifest Portal or another software provider, you will need a separate registration in order to use ACI through BorderConnect. You can generate the registration forms at any time when logged into BorderConnect account under Account and Company. You can also call a BorderConnect representative at any time to have the forms emailed or faxed over to you. 
+
 The next step is create profiles for any drivers, trucks and trailers that may be crossing the border. Please note that if you are also a user of BorderConnect's ACE eManifest software you should not need to enter any additional data as the profiles are shared between the ACE and ACI software. Otherwise, it is recommended that you enter the profile information ahead of time to facilitate creating eManifests. Please refer to the individual sections for instructions on entering and maintaining:
 
 Driver profiles
+Driver profiles
+Driver profiles
+Passenger profiles
 Passenger profiles
 Truck profiles
+Truck profiles
+Trailer profiles
 Trailer profiles
 Once you are registered to use ACI with BorderConnect and you have created the driver, truck and trailer profiles, you are ready to begin creating and submitting eManifests to Customs!
 
 ACI eManifest Instructions
+ACI eManifest Instructions
 Please refer to the individual sections for complete instructions on the following:
 
- Creating and submitting a new ACI eManifest
- Generating ACI Lead Sheets
- Correcting rejected ACI eManifests
- Updating or correcting an accepted manifest
- Keeping a close eye on a particular manifest
- Manifesting different types of shipments
- Preparing an ACI eManifest when taking another carrier's PARS or giving away your own
- Creating an empty ACI eManifest
- Checking the CFIA Inspection status of a meat shipment
+ 
+ 
+Creating and submitting a new ACI eManifest
+ 
+Generating ACI Lead Sheets
+ 
+Correcting rejected ACI eManifests
+ 
+Updating or correcting an accepted manifest
+ 
+Keeping a close eye on a particular manifest
+ 
+Manifesting different types of shipments
+ 
+Preparing an ACI eManifest when taking another carrier's PARS or giving away your own
+ 
+Creating an empty ACI eManifest
+ 
+Checking the CFIA Inspection status of a meat shipment
+ACI eManifest Tutorials
 ACI eManifest Tutorials
 
 
+
+
+
+
+How to create an ACI eManifest in BorderConnect.
+How to create an ACI eManifest in BorderConnect.
 How to create an ACI eManifest in BorderConnect.
 
+How to create an ACI eManifest in BorderConnect.
+How to create an ACI eManifest in BorderConnect.
+How to create an empty ACI in BorderConnect.
+How to create an empty ACI in BorderConnect.
 How to create an empty ACI in BorderConnect.
 
+How to create an empty ACI in BorderConnect.
+How to create an empty ACI in BorderConnect.
+How to create an ACI In-Bond in BorderConnect.
+How to create an ACI In-Bond in BorderConnect.
 How to create an ACI In-Bond in BorderConnect.
 
+How to create an ACI In-Bond in BorderConnect.
+How to create an ACI In-Bond in BorderConnect.
+How to change and correct an ACI in BorderConnect.
+How to change and correct an ACI in BorderConnect.
 How to change and correct an ACI in BorderConnect.
 
+How to change and correct an ACI in BorderConnect.
+How to change and correct an ACI in BorderConnect.
+How to create an A49 Automotive Release in BorderConnect.
+How to create an A49 Automotive Release in BorderConnect.
 How to create an A49 Automotive Release in BorderConnect.
 
+How to create an A49 Automotive Release in BorderConnect.
+How to create an A49 Automotive Release in BorderConnect.
+How to create a CSA shipment in BorderConnect.
+How to create a CSA shipment in BorderConnect.
+How to create a CSA shipment in BorderConnect.
+
+How to create a CSA shipment in BorderConnect.
 How to create a CSA shipment in BorderConnect.
 
 
 
+
+
+
+How to create IIT shipments and Cargo Exemptions for ACI in BorderConnect.
+How to create IIT shipments and Cargo Exemptions for ACI in BorderConnect.
 How to create IIT shipments and Cargo Exemptions for ACI in BorderConnect.
 
+How to create IIT shipments and Cargo Exemptions for ACI in BorderConnect.
+How to create IIT shipments and Cargo Exemptions for ACI in BorderConnect.
+How to create an Orders In Council shipment in ACI using BorderConnect.
+How to create an Orders In Council shipment in ACI using BorderConnect.
 How to create an Orders In Council shipment in ACI using BorderConnect.
 
+How to create an Orders In Council shipment in ACI using BorderConnect.
+How to create an Orders In Council shipment in ACI using BorderConnect.
+How to create a referenced shipment in ACI using BorderConnect.
+How to create a referenced shipment in ACI using BorderConnect.
+How to create a referenced shipment in ACI using BorderConnect.
+
+How to create a referenced shipment in ACI using BorderConnect.
 How to create a referenced shipment in ACI using BorderConnect.
 
 
 
-References: 
-Γåæ https://www.cbsa-asfc.gc.ca/prog/manif/eccrdhi-deccerout-eng.html
+Γåæ
+Γåæ
+Γåæ
+https://www.cbsa-asfc.gc.ca/prog/manif/eccrdhi-deccerout-eng.html
+https://www.cbsa-asfc.gc.ca/prog/manif/eccrdhi-deccerout-eng.html
+Γåæ
+Γåæ
+Γåæ
+https://www.cbsa-asfc.gc.ca/prog/aci-manif-ipec/req-exig-eng.html#tab3
+https://www.cbsa-asfc.gc.ca/prog/aci-manif-ipec/req-exig-eng.html#tab3
+Γåæ
+Γåæ
+Γåæ
+https://www.cbsa-asfc.gc.ca/publications/dm-md/d22/d22-1-1-eng.html
+https://www.cbsa-asfc.gc.ca/publications/dm-md/d22/d22-1-1-eng.html
 
-Γåæ https://www.cbsa-asfc.gc.ca/prog/aci-manif-ipec/req-exig-eng.html#tab3
-
-Γåæ https://www.cbsa-asfc.gc.ca/publications/dm-md/d22/d22-1-1-eng.html
 https://wiki.borderconnect.com/index.php/ACE_Manifest_Software_User_Guide_(CBP)
-This article is part of the BorderConnect ACE Manifest Software Guide.
+This article is part of the BorderConnect 
+This article is part of the BorderConnect 
+ACE Manifest Software Guide
+
+
 
 Contents
-
-1 Introduction
-2 ACE Truck Manifest Modernization
-3 ACE Manifest Requirements
-4 Getting Started
-5 ACE Manifest Instructions
-6 ACE Manifest Tutorial Videos
+Contents
 
 
-
+1
+1
+1
 Introduction
-ACE (Automated Commercial Environment) is CBP's electronic manifest program. It is intended to facilitate trade while strengthening border security.[1] Since 2007, highway carriers have had to comply with ACE eManifest requirements when bringing goods into the United States by filing an ACE eManifest at least one hour prior to arrival at the border.
-BorderConnect's ACE eManifest software offers an extremely user-friendly web-based solution to comply with eManifest requirements, complete with 24/7 technical support.
-
+2
+2
+2
 ACE Truck Manifest Modernization
-On January 30, 2022 U.S. Customs and Border Protection (CBP) began the multi-release deployment of Enhancements to ACE Truck Manifest - Phase 2, also known as ACE Truck Manifest Modernization (TMM). Enhancements to ACE Truck Manifest ΓÇô Phase 2 is focused on enhancing the CBP user interface (UI) for the primary and secondary processing of truck manifests. As part of this deployment, previously relaxed validations in the legacy truck manifest application are now supported in TMM and may result in errors for some trade users. To prepare for the upcoming deployments and avoid potential errors, please review the validations as documented in the Truck Manifest X.12 ΓÇô 309 and EDIFACT CUSCAR EDI implementation guides found at ACE Import Manifest Documentation. For additional information, please review CSMS #51405084.
-Implementing the capabilities developed in Phase 2, deployment of Phase 3 enhancements will provide trade users with new messaging regarding modifications to Crew, Vehicle, Cargo and Seals. The Phase 3 deployment was set for July 11, 2022. More information on Phase 3 enhancements is available in the ACE Truck Manifest: Draft Chapters for Future Use implementation guides found on CBP.gov.
-
+3
+3
+3
+ACE Manifest Requirements
+4
+4
+4
+Getting Started
+5
+5
+5
+ACE Manifest Instructions
+6
+6
+6
+ACE Manifest Tutorial Videos
+Introduction
+Introduction
+ACE 
+(Automated Commercial Environment)
+[1]
+[1]
+BorderConnect's
+BorderConnect's
+ACE eManifest software
+24/7 technical support.
+ACE Truck Manifest Modernization
+ACE Truck Manifest Modernization
+On January 30, 2022 U.S. Customs and Border Protection (CBP) began the multi-release deployment of Enhancements to ACE Truck Manifest - Phase 2, also known as ACE Truck Manifest Modernization (TMM). Enhancements to ACE Truck Manifest ΓÇô Phase 2 is focused on enhancing the CBP user interface (UI) for the primary and secondary processing of truck manifests. As part of this deployment, previously relaxed validations in the legacy truck manifest application are now supported in TMM and may result in errors for some trade users. To prepare for the upcoming deployments and avoid potential errors, please review the validations as documented in the Truck Manifest X.12 ΓÇô 309 and EDIFACT CUSCAR EDI implementation guides found at 
+ACE Import Manifest Documentation
+Implementing the capabilities developed in Phase 2, deployment of Phase 3 enhancements will provide trade users with new messaging regarding modifications to Crew, Vehicle, Cargo and Seals. The Phase 3 deployment was set for July 11, 2022. More information on Phase 3 enhancements is available in the ACE Truck Manifest: Draft Chapters for Future Use implementation guides found on 
+CBP.gov
+ACE Manifest Requirements
 ACE Manifest Requirements
 Under ACE Manifest regulations trucks must ensure that BOTH the ACE Manifest and the entry number by the customs broker (for PAPS shipments) are on file with CBP for at least one hour prior to the driver's arrival at the border. Failure to do so could result in delays at the border, refused entry into the U.S. and/or penalty action. Users can also process and submit an ACE Manifest up to 30 days in advance of the driver crossing the U.S. Port of Entry.
+
 When arriving at the border in the United States, the driver must present customs paperwork (ie customs invoice and/or Bill of Lading) with a legible trip number or shipment control number. Although CBP officers capture the trip information from the truck license plate, a PAPS barcode and/or barcoded ACE lead sheet can expedite the border processing time and also helps the officer to bring up the ACE Manifest in their system.
+
 The officer will then verify the information is correct, and it is their discretion to move the driver to secondary inspection or not for further verification. CBP officers do not stamp paperwork upon release of the shipment, and the only way to prove that a shipment was released with CBP is to use a signed proof of delivery document.
+
 ACE Manifest lead sheets can be generated from within BorderConnect, either from the manifest or as a set ahead of time. The carrier can also design and produce their own lead sheets.
 
+Getting Started
 Getting Started
 The first step is create profiles for any drivers, trucks and trailers that may be crossing the border. The information in these profiles will be used to complete mandatory fields on your manifests. It is recommended that you enter the profile information ahead of time to facilitate creating eManifests. Please refer to the individual sections for instructions on entering and maintaining:
 
 Driver profiles
+Driver profiles
+Driver profiles
+Passenger profiles
 Passenger profiles
 Truck profiles
+Truck profiles
+Trailer profiles
 Trailer profiles
 Once you are registered to use ACE with BorderConnect and you have created the driver, truck and trailer profiles, you are ready to begin creating and submitting eManifests to Customs!
 
 ACE Manifest Instructions
+ACE Manifest Instructions
 Please refer to the individual sections for complete instructions on the following:
 
- Creating and submitting a new ACE Manifest
- Correcting rejected ACE Manifests
- Updating or correcting an accepted manifest
- Updating a manifest when the driver has already arrived at the border
- Creating your own bonds in ACE
- Creating and tracking your own In-Bond sequences
- How to create a split shipment in ACE
- Manifesting different types of shipments
- Uploading large volume of shipments using CSV upload feature
- U.S. In-Bond Manager Guide for CBP
- Creating and Managing Insurance Policies
+ 
+ 
+Creating and submitting a new ACE Manifest
+ 
+Correcting rejected ACE Manifests
+ 
+Updating or correcting an accepted manifest
+ 
+Updating a manifest when the driver has already arrived at the border
+ 
+Creating your own bonds in ACE
+ 
+Creating and tracking your own In-Bond sequences
+ 
+How to create a split shipment in ACE
+ 
+Manifesting different types of shipments
+ 
+Uploading large volume of shipments using CSV upload feature
+ 
+U.S. In-Bond Manager Guide for CBP
+ 
+Creating and Managing Insurance Policies
+
 
 
 ACE Manifest Tutorial Videos
+ACE Manifest Tutorial Videos
+
+
+
+
 
 
 How to create an ACE eManifest in BorderConnect.
+How to create an ACE eManifest in BorderConnect.
+How to create an ACE eManifest in BorderConnect.
 
+How to create an ACE eManifest in BorderConnect.
+How to create an ACE eManifest in BorderConnect.
+How to create and submit an ACE In-Bond in BorderConnect.
+How to create and submit an ACE In-Bond in BorderConnect.
 How to create and submit an ACE In-Bond in BorderConnect.
 
+How to create and submit an ACE In-Bond in BorderConnect.
+How to create and submit an ACE In-Bond in BorderConnect.
+How to amend and cancel an ACE in BorderConnect.
+How to amend and cancel an ACE in BorderConnect.
 How to amend and cancel an ACE in BorderConnect.
 
+How to amend and cancel an ACE in BorderConnect.
+How to amend and cancel an ACE in BorderConnect.
+How to create an empty ACE in BorderConnect.
+How to create an empty ACE in BorderConnect.
 How to create an empty ACE in BorderConnect.
 
+How to create an empty ACE in BorderConnect.
+How to create an empty ACE in BorderConnect.
+How to create a Goods Astray in BorderConnect.
+How to create a Goods Astray in BorderConnect.
 How to create a Goods Astray in BorderConnect.
 
+How to create a Goods Astray in BorderConnect.
+How to create a Goods Astray in BorderConnect.
+How to create and submit IITs in BorderConnect.
+How to create and submit IITs in BorderConnect.
+How to create and submit IITs in BorderConnect.
+
+How to create and submit IITs in BorderConnect.
 How to create and submit IITs in BorderConnect.
 
 
 
+
+
+
+How to create a Personal Shipment in BorderConnect.
+How to create a Personal Shipment in BorderConnect.
 How to create a Personal Shipment in BorderConnect.
 
+How to create a Personal Shipment in BorderConnect.
+How to create a Personal Shipment in BorderConnect.
+How to create a Section 321 in BorderConnect.
+How to create a Section 321 in BorderConnect.
 How to create a Section 321 in BorderConnect.
 
-References: 
-Γåæ https://www.cbp.gov/trade/automated
+How to create a Section 321 in BorderConnect.
+How to create a Section 321 in BorderConnect.
+Γåæ
+Γåæ
+Γåæ
+https://www.cbp.gov/trade/automated
+https://www.cbp.gov/trade/automated
+
